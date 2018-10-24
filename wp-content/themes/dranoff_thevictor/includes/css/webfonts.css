@@ -1,0 +1,82 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3136224, 2015-12-04T09:13:26-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: BrandonGrotesqueWeb-Light by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/light/
+ * 
+ * Webfont: BrandonGrotesqueWeb-Bold by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/bold/
+ * 
+ * Webfont: BrandonGrotesqueWeb-Regular by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/regular/
+ * 
+ * Webfont: BrandonGrotesqueWeb-Medium by HVD Fonts
+ * URL: http://www.myfonts.com/fonts/hvdfonts/brandon-grotesque/medium/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3136224
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2015 by Hannes von Doehren. All rights reserved.
+ * 
+ * © 2015 MyFonts Inc
+*/
+
+
+@font-face {
+	font-family: 'BrandonGrotesqueWeb-Thin';
+	src: url('../fonts/2FE985_0_0.eot');
+	src: url('../fonts/2FE985_0_0.eot?#iefix') 
+	format('embedded-opentype'),url('../fonts/2FE985_0_0.woff2') 
+	format('woff2'),url('../fonts/2FE985_0_0.woff') 
+	format('woff'),url('../fonts/2FE985_0_0.ttf') 
+	format('truetype');}
+
+  
+@font-face {
+	font-family: 'BrandonGrotesqueWeb-Light';
+	src: url('../fonts/2FDAE0_0_0.eot');
+	src: url('../fonts/2FDAE0_0_0.eot?#iefix') 
+	format('embedded-opentype'),url('../fonts/2FDAE0_0_0.woff2') 
+	format('woff2'),url('../fonts/2FDAE0_0_0.woff') 
+	format('woff'),url('../fonts/2FDAE0_0_0.ttf') 
+	format('truetype');
+}
+ 
+  
+@font-face {
+	font-family: 'BrandonGrotesqueWeb-Bold';
+	src: url('../fonts/2FDAE0_1_0.eot');
+	src: url('../fonts/2FDAE0_1_0.eot?#iefix') 
+	format('embedded-opentype'),url('../fonts/2FDAE0_1_0.woff2') 
+	format('woff2'),url('../fonts/2FDAE0_1_0.woff') 
+	format('woff'),url('../fonts/2FDAE0_1_0.ttf') 
+	format('truetype');
+}
+ 
+  
+@font-face {
+	font-family: 'BrandonGrotesqueWeb-Regular';
+	src: url('../fonts/2FDAE0_2_0.eot');
+	src: url('../fonts/2FDAE0_2_0.eot?#iefix') 
+	format('embedded-opentype'),url('../fonts/2FDAE0_2_0.woff2') 
+	format('woff2'),url('../fonts/2FDAE0_2_0.woff') 
+	format('woff'),url('../fonts/2FDAE0_2_0.ttf') format('truetype');
+}
+ 
+  
+@font-face {font-family: 'BrandonGrotesqueWeb-Medium';
+	src: url('../fonts/2FDAE0_3_0.eot');
+	src: url('../fonts/2FDAE0_3_0.eot?#iefix') 
+	format('embedded-opentype'),url('../fonts/2FDAE0_3_0.woff2') 
+	format('woff2'),url('../fonts/2FDAE0_3_0.woff') 
+	format('woff'),url('../fonts/2FDAE0_3_0.ttf') 
+	format('truetype');
+}
+

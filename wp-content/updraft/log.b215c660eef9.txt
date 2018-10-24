@@ -1,0 +1,1022 @@
+0000.043 (0) Opened log file at time: Mon, 22 Oct 2018 21:12:55 +0000 on https://thevictorlofts.com
+0000.049 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.12 WP: 4.9.8 PHP: 5.6.36-1+wpengine16 (apache2handler, Linux pod-100319 3.13.0-160-generic #210-Ubuntu SMP Mon Sep 24 18:08:15 UTC 2018 x86_64) MySQL: 5.6.41 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 58.6M | 62.3M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.053 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.057 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.061 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.192 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1540155944, seconds_ago=86831)
+0000.203 (0) Set semaphore last lock (fd) time to 2018-10-22 21:12:55
+0000.207 (0) Semaphore lock (fd) complete
+0000.219 (0) Backup run: resumption=0, nonce=b215c660eef9, begun at=1540242775 (0s ago), job type=backup
+0000.227 (0) Scheduling a resumption (1) after 300 seconds (1540243075) in case this run gets aborted
+0000.293 (0) Checking if we have a zip executable available
+0000.301 (0) Creation of backups of directories: beginning
+0000.311 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.153 (0) Total entities for the zip file: 827 directories, 6088 files (0 skipped as non-modified), 87.8 MB
+0002.164 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.173 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.182 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.190 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.199 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.203 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 MB, 6088 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0004.424 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 600 files added (on-disk size: 1719.8 KB)
+0004.433 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 700 files added (on-disk size: 1719.8 KB)
+0004.442 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 800 files added (on-disk size: 1719.8 KB)
+0004.451 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 900 files added (on-disk size: 1719.8 KB)
+0004.460 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1000 files added (on-disk size: 1719.8 KB)
+0004.465 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 6088 files batched, 501 (1002) added so far); re-opening (prior size: 1719.8 KB)
+0006.421 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1100 files added (on-disk size: 3875.4 KB)
+0006.434 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1200 files added (on-disk size: 3875.4 KB)
+0006.446 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1300 files added (on-disk size: 3875.4 KB)
+0006.459 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1400 files added (on-disk size: 3875.4 KB)
+0006.470 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1500 files added (on-disk size: 3875.4 KB)
+0006.475 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.8 MB, 6088 files batched, 501 (1503) added so far); re-opening (prior size: 3875.4 KB)
+0007.726 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1600 files added (on-disk size: 5426.2 KB)
+0007.735 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1700 files added (on-disk size: 5426.2 KB)
+0007.744 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1800 files added (on-disk size: 5426.2 KB)
+0007.754 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 1900 files added (on-disk size: 5426.2 KB)
+0007.764 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2000 files added (on-disk size: 5426.2 KB)
+0007.769 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.6 MB, 6088 files batched, 501 (2004) added so far); re-opening (prior size: 5426.2 KB)
+0011.155 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2100 files added (on-disk size: 12612 KB)
+0011.164 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2200 files added (on-disk size: 12612 KB)
+0011.173 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2300 files added (on-disk size: 12612 KB)
+0011.190 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2400 files added (on-disk size: 12612 KB)
+0011.201 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2500 files added (on-disk size: 12612 KB)
+0011.205 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.9 MB, 6088 files batched, 501 (2505) added so far); re-opening (prior size: 12612 KB)
+0012.713 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2600 files added (on-disk size: 14531.2 KB)
+0012.723 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2700 files added (on-disk size: 14531.2 KB)
+0012.732 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2800 files added (on-disk size: 14531.2 KB)
+0012.743 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 2900 files added (on-disk size: 14531.2 KB)
+0012.752 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3000 files added (on-disk size: 14531.2 KB)
+0012.757 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.8 MB, 6088 files batched, 501 (3006) added so far); re-opening (prior size: 14531.2 KB)
+0013.718 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3100 files added (on-disk size: 15516.8 KB)
+0013.728 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3200 files added (on-disk size: 15516.8 KB)
+0013.737 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3300 files added (on-disk size: 15516.8 KB)
+0013.745 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3400 files added (on-disk size: 15516.8 KB)
+0013.755 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3500 files added (on-disk size: 15516.8 KB)
+0013.759 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 6088 files batched, 501 (3507) added so far); re-opening (prior size: 15516.8 KB)
+0015.255 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3600 files added (on-disk size: 17024.3 KB)
+0015.266 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3700 files added (on-disk size: 17024.3 KB)
+0015.277 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3800 files added (on-disk size: 17024.3 KB)
+0015.287 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 3900 files added (on-disk size: 17024.3 KB)
+0015.297 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4000 files added (on-disk size: 17024.3 KB)
+0015.301 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (10 MB, 6088 files batched, 501 (4008) added so far); re-opening (prior size: 17024.3 KB)
+0017.434 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4100 files added (on-disk size: 19998.6 KB)
+0017.448 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4200 files added (on-disk size: 19998.6 KB)
+0017.458 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4300 files added (on-disk size: 19998.6 KB)
+0017.471 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4400 files added (on-disk size: 19998.6 KB)
+0017.483 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4500 files added (on-disk size: 19998.6 KB)
+0017.488 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 MB, 6088 files batched, 501 (4509) added so far); re-opening (prior size: 19998.6 KB)
+0018.832 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4600 files added (on-disk size: 21362.6 KB)
+0018.842 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4700 files added (on-disk size: 21362.6 KB)
+0018.851 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4800 files added (on-disk size: 21362.6 KB)
+0018.863 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 4900 files added (on-disk size: 21362.6 KB)
+0018.873 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5000 files added (on-disk size: 21362.6 KB)
+0018.878 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.4 MB, 6088 files batched, 501 (5010) added so far); re-opening (prior size: 21362.6 KB)
+0020.660 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5100 files added (on-disk size: 23771.8 KB)
+0020.670 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5200 files added (on-disk size: 23771.8 KB)
+0020.682 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5300 files added (on-disk size: 23771.8 KB)
+0020.693 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5400 files added (on-disk size: 23771.8 KB)
+0020.704 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5500 files added (on-disk size: 23771.8 KB)
+0020.709 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.6 MB, 6088 files batched, 501 (5511) added so far); re-opening (prior size: 23771.8 KB)
+0021.389 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5600 files added (on-disk size: 24349.9 KB)
+0021.401 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5700 files added (on-disk size: 24349.9 KB)
+0021.411 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5800 files added (on-disk size: 24349.9 KB)
+0021.421 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 5900 files added (on-disk size: 24349.9 KB)
+0021.430 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip.tmp: 6000 files added (on-disk size: 24349.9 KB)
+0021.435 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.4 MB, 6088 files batched, 501 (6012) added so far); re-opening (prior size: 24349.9 KB)
+0025.299 (0) Created plugins zip (0) - 29924.9 KB in 25 s (1197.7 KB/s) (sha1: f28aad4be3e62e17af049b8eefe5a1b1a3caf99f, sha256: fa5f30ea411c2c104ad165b07b9700104f6f87b501bcac3ef2b6bfc1160d56b0)
+0025.308 (0) Beginning creation of dump of themes (split every: 400 MB)
+0025.463 (0) Total entities for the zip file: 49 directories, 488 files (0 skipped as non-modified), 19.3 MB
+0025.471 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0025.479 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0025.487 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0025.495 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0029.071 (0) Created themes zip (0) - 14029.6 KB in 3.8 s (3732.3 KB/s) (sha1: 2ab7d50351ff7b70d2ae9d3de1bf8a80dadaba6d, sha256: 533a5a3665e6955864714e7d67215a01e78e828f7584114a77cc5bb5be79c146)
+0029.080 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0029.084 (0) Looking for candidates to backup in: /nas/content/live/thevictor/wp-content/uploads
+0029.114 (0) finding files: the_victort-footer-gallery.jpg: adding to list (1)
+0029.118 (0) finding files: fbrfg: adding to list (2)
+0029.122 (0) finding files: the_victort-footer-gallery-150x55.jpg: adding to list (3)
+0029.125 (0) finding files: model1-6.jpg: adding to list (4)
+0029.127 (0) finding files: 2bed_2bath_two-levels.pdf: adding to list (5)
+0029.131 (0) finding files: neighborhood-5-1024x406.jpg: adding to list (6)
+0029.134 (0) finding files: roofdeck_the_victor-300x300.jpg: adding to list (7)
+0029.137 (0) finding files: concierge-the_victor-150x150.jpg: adding to list (8)
+0029.140 (0) finding files: camden-concert-pavilion-150x59.jpg: adding to list (9)
+0029.143 (0) finding files: the_victor_retail-bbt.jpg: adding to list (10)
+0029.147 (0) finding files: the_victor-sky_deck.jpg: adding to list (11)
+0029.149 (0) finding files: living_room_model_the_victor-300x300.jpg: adding to list (12)
+0029.151 (0) finding files: the_victor-neighborhood-3-300x119.jpg: adding to list (13)
+0029.154 (0) finding files: market-300x300.jpg: adding to list (14)
+0029.157 (0) finding files: neighborhood-downtown-day.jpg: adding to list (15)
+0029.159 (0) finding files: Hyde-Hotel-upcoming-gallery.jpg: adding to list (16)
+0029.162 (0) finding files: the-Victor-300x300.jpg: adding to list (17)
+0029.165 (0) finding files: parking-300x300.jpg: adding to list (18)
+0029.167 (0) finding files: 1bed_1bath_260-660.svg: adding to list (19)
+0029.170 (0) finding files: the_victor-neighborhood-12-300x119.jpg: adding to list (20)
+0029.173 (0) finding files: camden-neighborhood-300x300.jpg: adding to list (21)
+0029.175 (0) finding files: the_victor_floorplans_living-300x224.jpg: adding to list (22)
+0029.177 (0) finding files: royal-theater-gallery-102x150.jpg: adding to list (23)
+0029.179 (0) finding files: the_victor-neighborhood-10-300x119.jpg: adding to list (24)
+0029.182 (0) finding files: 1bed_1bath_260-660.pdf: adding to list (25)
+0029.184 (0) finding files: the_victor-unit_3-1024x406.jpg: adding to list (26)
+0029.187 (0) finding files: neighborhood-3-300x119.jpg: adding to list (27)
+0029.189 (0) finding files: neighborhood-downtown-day-150x60.jpg: adding to list (28)
+0029.191 (0) finding files: courtyard-2.svg: adding to list (29)
+0029.194 (0) finding files: the_victor_neighborhood-marina-300x300.jpg: adding to list (30)
+0029.195 (0) finding files: neighborhood-7-300x119.jpg: adding to list (31)
+0029.198 (0) finding files: 2bed_2bath_209-509.svg: adding to list (32)
+0029.199 (0) finding files: pizza.jpg: adding to list (33)
+0029.202 (0) finding files: the_victor-neighborhood-5-300x119.jpg: adding to list (34)
+0029.204 (0) finding files: thevictor-rooftop-view-2-1024x406.jpg: adding to list (35)
+0029.207 (0) finding files: the_victor-neighborhood-6-150x60.jpg: adding to list (36)
+0029.210 (0) finding files: PhillyStyle-150x35.png: adding to list (37)
+0029.213 (0) finding files: parking.jpg: adding to list (38)
+0029.215 (0) finding files: middle-slider-camden-aquarium-440px-300x172.jpg: adding to list (39)
+0029.218 (0) finding files: vertical-footer-thevictor_courtyard.jpg: adding to list (40)
+0029.219 (0) finding files: the_victor_retail-market-150x150.jpg: adding to list (41)
+0029.222 (0) finding files: middle-slider-concert_pavilion-1024x400.jpg: adding to list (42)
+0029.225 (0) finding files: thevictor-vertical-544x1024.jpg: adding to list (43)
+0029.227 (0) finding files: fresh-mex-150x150.jpg: adding to list (44)
+0029.230 (0) finding files: fresh-mex.jpg: adding to list (45)
+0029.231 (0) finding files: the_victor-video_tour-150x150.jpg: adding to list (46)
+0029.234 (0) finding files: the_victor-neighborhood-4-150x60.jpg: adding to list (47)
+0029.236 (0) finding files: 2Liberty.jpg: adding to list (48)
+0029.238 (0) finding files: diningroom-the_victor.jpg: adding to list (49)
+0029.241 (0) finding files: thevictor_rooftop_view-300x300.jpg: adding to list (50)
+0029.243 (0) finding files: maps-backup: adding to list (51)
+0029.243 (0) finding files: model1-6-300x119.jpg: adding to list (52)
+0029.243 (0) finding files: the_victor_floorplans_living_2-300x224.jpg: adding to list (53)
+0029.243 (0) finding files: the_victor-neighborhood-3.jpg: adding to list (54)
+0029.243 (0) finding files: middle-slider-camden_concert_pavilion-440px-300x172.jpg: adding to list (55)
+0029.243 (0) finding files: 2bed_den_2bath.pdf: adding to list (56)
+0029.243 (0) finding files: logo_for_favicon-150x143.png: adding to list (57)
+0029.243 (0) finding files: 2bed_den_2bath.svg: adding to list (58)
+0029.243 (0) finding files: the_victor_unit_slider-440.jpg: adding to list (59)
+0029.243 (0) finding files: the_victor-neighborhood-12.jpg: adding to list (60)
+0029.243 (0) finding files: the_victor-neighborhood-2-1024x406.jpg: adding to list (61)
+0029.243 (0) finding files: 777-south-broad-150x150.jpg: adding to list (62)
+0029.243 (0) finding files: the_victor-3-150x60.jpg: adding to list (63)
+0029.243 (0) finding files: the_victor-neighborhood-9-1024x406.jpg: adding to list (64)
+0029.243 (0) finding files: the_victor_retail-edible_arrangements-300x300.jpg: adding to list (65)
+0029.243 (0) finding files: pet-friendly.jpg: adding to list (66)
+0029.243 (0) finding files: skyline-thevictor-view-150x150.jpg: adding to list (67)
+0029.243 (0) finding files: 1bedroom_patio.pdf: adding to list (68)
+0029.243 (0) finding files: lobby-thevictor-300x300.jpg: adding to list (69)
+0029.243 (0) finding files: bedroom-the_victor-150x150.jpg: adding to list (70)
+0029.243 (0) finding files: concierge.svg: adding to list (71)
+0029.243 (0) finding files: the_victor_view_slider-440-300x172.jpg: adding to list (72)
+0029.243 (0) finding files: the_victor-1a.jpg: adding to list (73)
+0029.243 (0) finding files: cbs-philly-150x29.png: adding to list (74)
+0029.243 (0) finding files: retail-the_victor-300x300.jpg: adding to list (75)
+0029.243 (0) finding files: footer-retail-coffee.jpg: adding to list (76)
+0029.243 (0) finding files: camden-cooper-150x150.jpg: adding to list (77)
+0029.243 (0) finding files: footer-retail-coffee-150x150.jpg: adding to list (78)
+0029.243 (0) finding files: the_victor_neighborhood-camden-marina.jpg: adding to list (79)
+0029.243 (0) finding files: One-Riverside-300x300.jpg: adding to list (80)
+0029.244 (0) finding files: royal-theater-gallery-204x300.jpg: adding to list (81)
+0029.244 (0) finding files: market-150x150.jpg: adding to list (82)
+0029.244 (0) finding files: bedroom-the_victor-300x300.jpg: adding to list (83)
+0029.244 (0) finding files: neighborhood-1.jpg: adding to list (84)
+0029.244 (0) finding files: One-Riverside-150x150.jpg: adding to list (85)
+0029.244 (0) finding files: multifamily-executive-logo.png: adding to list (86)
+0029.244 (0) finding files: the_victor-neighborhood-6-1024x406.jpg: adding to list (87)
+0029.244 (0) finding files: thevictor-vertical.jpg: adding to list (88)
+0029.244 (0) finding files: One-Ardmore-Place-upcoming-gallery-627x922_c-102x150.jpg: adding to list (89)
+0029.244 (0) finding files: thevictor_rooftop_view-150x150.jpg: adding to list (90)
+0029.244 (0) finding files: roofdeck_the_victor-150x150.jpg: adding to list (91)
+0029.244 (0) finding files: the_victor-neighborhood-8.jpg: adding to list (92)
+0029.244 (0) finding files: the_victor_view_slider-440.jpg: adding to list (93)
+0029.244 (0) finding files: view-bridge-1024x406.jpg: adding to list (94)
+0029.244 (0) finding files: southstar_map_icon.png: adding to list (95)
+0029.244 (0) finding files: the_victor_retail-edible_arrangements-150x150.jpg: adding to list (96)
+0029.244 (0) finding files: vertical-footer-thevictor_view-102x150.jpg: adding to list (97)
+0029.244 (0) finding files: model1-1-1024x406.jpg: adding to list (98)
+0029.244 (0) finding files: the_victor-neighborhood-2.jpg: adding to list (99)
+0029.244 (0) finding files: the_victor_unit_front_slider-2-440-300x172.jpg: adding to list (100)
+0029.247 (0) finding files: the_victor_neighborhood-aquarium-children-300x300.jpg: adding to list (101)
+0029.247 (0) finding files: the_victor_view_slider-300x119.jpg: adding to list (102)
+0029.247 (0) finding files: footer-retail-restaurant.jpg: adding to list (103)
+0029.247 (0) finding files: vertical-footer-thevictor_entrance-204x300.jpg: adding to list (104)
+0029.247 (0) finding files: footer-retail-restaurant-150x150.jpg: adding to list (105)
+0029.247 (0) finding files: thevictor-rooftop-view-150x60.jpg: adding to list (106)
+0029.247 (0) finding files: lifestyle-access-card-150x150.jpg: adding to list (107)
+0029.247 (0) finding files: middle-slider-camden-aquarium-440px-150x86.jpg: adding to list (108)
+0029.247 (0) finding files: view-downtown-zoom.jpg: adding to list (109)
+0029.247 (0) finding files: second-slider-aquarium.jpg: adding to list (110)
+0029.247 (0) finding files: the_victor-neighborhood-8-300x119.jpg: adding to list (111)
+0029.247 (0) finding files: middle-slider-aquarium-440px.jpg: adding to list (112)
+0029.247 (0) finding files: neighborhood-7-150x60.jpg: adding to list (113)
+0029.247 (0) finding files: the_victor-neighborhood-7-300x119.jpg: adding to list (114)
+0029.247 (0) finding files: neighborhood-library-300x300.jpg: adding to list (115)
+0029.247 (0) finding files: middle-slider-camden_concert_pavilion-440px-150x86.jpg: adding to list (116)
+0029.247 (0) finding files: view-downtown-zoom-1024x406.jpg: adding to list (117)
+0029.247 (0) finding files: 2016: adding to list (118)
+0029.247 (0) finding files: gym-the_victor.jpg: adding to list (119)
+0029.247 (0) finding files: neighborhood-2-300x119.jpg: adding to list (120)
+0029.247 (0) finding files: middle-slider-aquarium-440px-150x86.jpg: adding to list (121)
+0029.247 (0) finding files: concierge-the_victor.jpg: adding to list (122)
+0029.247 (0) finding files: locust_on_the_park-300x300.jpg: adding to list (123)
+0029.247 (0) finding files: the_victor-neighborhood-2-300x119.jpg: adding to list (124)
+0029.247 (0) finding files: the_victor_retail-pub-300x300.jpg: adding to list (125)
+0029.247 (0) finding files: the_victor-unit_1-150x60.jpg: adding to list (126)
+0029.247 (0) finding files: neighborhood-downtown-day-1024x406.jpg: adding to list (127)
+0029.247 (0) finding files: retail-the_victor.jpg: adding to list (128)
+0029.248 (0) finding files: the_victor_floorplans_living_2-150x112.jpg: adding to list (129)
+0029.248 (0) finding files: neighborhood-2-150x60.jpg: adding to list (130)
+0029.248 (0) finding files: middle-slider-aquarium.jpg: adding to list (131)
+0029.248 (0) finding files: market.jpg: adding to list (132)
+0029.248 (0) finding files: model2-2-150x60.jpg: adding to list (133)
+0029.248 (0) finding files: The_Philadelphia_Inquirer_logo-150x16.png: adding to list (134)
+0029.248 (0) finding files: neighborhood-6-1024x406.jpg: adding to list (135)
+0029.248 (0) finding files: middle-slider-concert_pavilion-300x117.jpg: adding to list (136)
+0029.248 (0) finding files: the_victor-unit_1-300x119.jpg: adding to list (137)
+0029.248 (0) finding files: model2-4-1024x406.jpg: adding to list (138)
+0029.248 (0) finding files: the_victor_unit_slider-1024x406.jpg: adding to list (139)
+0029.248 (0) finding files: model2-4-300x119.jpg: adding to list (140)
+0029.248 (0) finding files: vertical-footer-thevictor-204x300.jpg: adding to list (141)
+0029.248 (0) finding files: camden-cooper.jpg: adding to list (142)
+0029.248 (0) finding files: neighborhood-6-300x119.jpg: adding to list (143)
+0029.248 (0) finding files: One-Riverside-night-150x95.jpg: adding to list (144)
+0029.248 (0) finding files: vertical-footer-thevictor_courtyard-204x300.jpg: adding to list (145)
+0029.248 (0) finding files: The_Philadelphia_Inquirer_logo.png: adding to list (146)
+0029.248 (0) finding files: camden-aquarium-150x150.jpg: adding to list (147)
+0029.248 (0) finding files: model1-3.jpg: adding to list (148)
+0029.248 (0) finding files: One-Riverside-night-300x191.jpg: adding to list (149)
+0029.248 (0) finding files: The_Philadelphia_Inquirer_logo-300x32.png: adding to list (150)
+0029.248 (0) finding files: middle-slider-cooper-300x117.jpg: adding to list (151)
+0029.248 (0) finding files: the_victor_neighborhood-camden-marina-300x300.jpg: adding to list (152)
+0029.248 (0) finding files: the_victor_retail-market.jpg: adding to list (153)
+0029.248 (0) finding files: the_victor-neighborhood-4.jpg: adding to list (154)
+0029.248 (0) finding files: theater-square-upcoming-gallery-102x150.jpg: adding to list (155)
+0029.248 (0) finding files: middle-slider-aquarium-440px-300x172.jpg: adding to list (156)
+0029.248 (0) finding files: lobby-thevictor-150x150.jpg: adding to list (157)
+0029.248 (0) finding files: roofdeck_the_victor.jpg: adding to list (158)
+0029.248 (0) finding files: grass-150x150.jpg: adding to list (159)
+0029.248 (0) finding files: the_victor-5.jpg: adding to list (160)
+0029.248 (0) finding files: model1-1-300x119.jpg: adding to list (161)
+0029.248 (0) finding files: the_victor-sky_deck-300x300.jpg: adding to list (162)
+0029.248 (0) finding files: second-slider-aquarium-300x117.jpg: adding to list (163)
+0029.248 (0) finding files: the_victor_retail-market-300x300.jpg: adding to list (164)
+0029.248 (0) finding files: 2Liberty-300x300.jpg: adding to list (165)
+0029.248 (0) finding files: vertical-footer-thevictor-102x150.jpg: adding to list (166)
+0029.248 (0) finding files: the_victor-neighborhood-9-150x60.jpg: adding to list (167)
+0029.248 (0) finding files: thevictor_rooftop_view.jpg: adding to list (168)
+0029.248 (0) finding files: the_victor-neighborhood-9-300x119.jpg: adding to list (169)
+0029.248 (0) finding files: the_victor_slider-440-300x172.jpg: adding to list (170)
+0029.248 (0) finding files: the_victor-4-150x60.jpg: adding to list (171)
+0029.248 (0) finding files: middle-slider-concert_pavilion-440px-300x172.jpg: adding to list (172)
+0029.248 (0) finding files: middle-slider-concert_pavilion-150x59.jpg: adding to list (173)
+0029.248 (0) finding files: the_victor_neighborhood-marina-150x150.jpg: adding to list (174)
+0029.248 (0) finding files: the_victor-sky_deck-150x150.jpg: adding to list (175)
+0029.248 (0) finding files: middle-slider-concert_pavilion-440px.jpg: adding to list (176)
+0029.248 (0) finding files: the_victor_unit_front_slider-2-440-150x86.jpg: adding to list (177)
+0029.248 (0) finding files: camden-concert-pavilion.jpg: adding to list (178)
+0029.248 (0) finding files: multifamily-executive-logo-150x111.png: adding to list (179)
+0029.248 (0) finding files: neighborhood-4-150x60.jpg: adding to list (180)
+0029.248 (0) finding files: the_victor-neighborhood-12-150x60.jpg: adding to list (181)
+0029.249 (0) finding files: 1bed_platform_1bath_341-641.pdf: adding to list (182)
+0029.249 (0) finding files: thevictor-rooftop-view-2-300x119.jpg: adding to list (183)
+0029.249 (0) finding files: model2-3.jpg: adding to list (184)
+0029.249 (0) finding files: middle-slider-cooper-440px.jpg: adding to list (185)
+0029.249 (0) finding files: the_victor_unit_slider-300x119.jpg: adding to list (186)
+0029.249 (0) finding files: neighborhood-5-300x119.jpg: adding to list (187)
+0029.249 (0) finding files: the_victor_retail-pizza.jpg: adding to list (188)
+0029.249 (0) finding files: parking.svg: adding to list (189)
+0029.249 (0) finding files: 2bed_2bath_236-636.svg: adding to list (190)
+0029.249 (0) finding files: Hyde-Hotel-upcoming-gallery-204x300.jpg: adding to list (191)
+0029.249 (0) finding files: the_victor-6-300x119.jpg: adding to list (192)
+0029.249 (0) finding files: the_victor-neighborhood-5-150x60.jpg: adding to list (193)
+0029.249 (0) finding files: pet-friendly-150x150.jpg: adding to list (194)
+0029.249 (0) finding files: neighborhood-5.jpg: adding to list (195)
+0029.249 (0) finding files: vertical-footer-pet-friendly-102x150.jpg: adding to list (196)
+0029.249 (0) finding files: neighborhood-2.jpg: adding to list (197)
+0029.249 (0) finding files: studio_1bath.svg: adding to list (198)
+0029.249 (0) finding files: royal-theater-gallery.jpg: adding to list (199)
+0029.249 (0) finding files: pet-friendly-300x300.jpg: adding to list (200)
+0029.253 (0) finding files: middle-slider-cooper-440px-150x86.jpg: adding to list (201)
+0029.253 (0) finding files: camden-cooper-300x300.jpg: adding to list (202)
+0029.253 (0) finding files: vertical-footer-neighborhood-thevictor-204x300.jpg: adding to list (203)
+0029.253 (0) finding files: the_victor-lobby-300x300.jpg: adding to list (204)
+0029.253 (0) finding files: bike-share-150x150.jpg: adding to list (205)
+0029.253 (0) finding files: the_victor_floorplans_living-top-2-300x224.jpg: adding to list (206)
+0029.253 (0) finding files: the_victor-video_tour-300x300.jpg: adding to list (207)
+0029.253 (0) finding files: model2-3-150x60.jpg: adding to list (208)
+0029.253 (0) finding files: neighborhood-6-150x60.jpg: adding to list (209)
+0029.253 (0) finding files: bedroom_model_victor-300x300.jpg: adding to list (210)
+0029.253 (0) finding files: the_victor-neighborhood-7.jpg: adding to list (211)
+0029.253 (0) finding files: model2-3-1024x406.jpg: adding to list (212)
+0029.253 (0) finding files: the_victor_view_slider-440-150x86.jpg: adding to list (213)
+0029.253 (0) finding files: the_victor-unit_2-300x119.jpg: adding to list (214)
+0029.253 (0) finding files: clubroom-the_victor.jpg: adding to list (215)
+0029.253 (0) finding files: pure_mind-the_victor-150x150.jpg: adding to list (216)
+0029.253 (0) finding files: the_victor-5-1024x406.jpg: adding to list (217)
+0029.253 (0) finding files: model1-3-1024x406.jpg: adding to list (218)
+0029.253 (0) finding files: neighborhood-3.jpg: adding to list (219)
+0029.253 (0) finding files: the_victor_view_slider.jpg: adding to list (220)
+0029.253 (0) finding files: neighborhood-4-1024x406.jpg: adding to list (221)
+0029.253 (0) finding files: neighborhood-library-150x150.jpg: adding to list (222)
+0029.253 (0) finding files: the_victor-neighborhood-4-300x119.jpg: adding to list (223)
+0029.253 (0) finding files: the_victor_floorplans_living-bottom-2-300x224.jpg: adding to list (224)
+0029.253 (0) finding files: camden-neighborhood.jpg: adding to list (225)
+0029.253 (0) finding files: 777-south-broad-300x300.jpg: adding to list (226)
+0029.253 (0) finding files: the_victor-1-150x60.jpg: adding to list (227)
+0029.253 (0) finding files: neighborhood-7.jpg: adding to list (228)
+0029.253 (0) finding files: the_victor_floorplans_living.jpg: adding to list (229)
+0029.253 (0) finding files: logo_for_favicon.png: adding to list (230)
+0029.253 (0) finding files: the_victor_unit_front_slider-2-440.jpg: adding to list (231)
+0029.253 (0) finding files: camden-marina.jpg: adding to list (232)
+0029.253 (0) finding files: storage-300x300.jpg: adding to list (233)
+0029.253 (0) finding files: restaurant.svg: adding to list (234)
+0029.253 (0) finding files: model1-1-150x60.jpg: adding to list (235)
+0029.253 (0) finding files: One_Riverside-150x150.jpg: adding to list (236)
+0029.253 (0) finding files: the_victor_floorplans_living-top-2-150x112.jpg: adding to list (237)
+0029.253 (0) finding files: the_victor_retail-pizza-300x300.jpg: adding to list (238)
+0029.253 (0) finding files: the_victor-neighborhood-6-300x119.jpg: adding to list (239)
+0029.253 (0) finding files: theater-square-upcoming-gallery-204x300.jpg: adding to list (240)
+0029.253 (0) finding files: the_victor-2-150x60.jpg: adding to list (241)
+0029.254 (0) finding files: dining_model_victor-300x300.jpg: adding to list (242)
+0029.254 (0) finding files: the_victor-neighborhood-7-1024x406.jpg: adding to list (243)
+0029.254 (0) finding files: the_victor_floorplans_living_2.jpg: adding to list (244)
+0029.254 (0) finding files: vertical-footer-neighborhood-thevictor-bridge-102x150.jpg: adding to list (245)
+0029.254 (0) finding files: view-bridge-150x60.jpg: adding to list (246)
+0029.254 (0) finding files: the_victor-unit_2-150x60.jpg: adding to list (247)
+0029.254 (0) finding files: 2015: adding to list (248)
+0029.254 (0) finding files: the_victor_retail-pub-150x150.jpg: adding to list (249)
+0029.254 (0) finding files: One-Riverside.jpg: adding to list (250)
+0029.254 (0) finding files: model1-1.jpg: adding to list (251)
+0029.254 (0) finding files: living_room_model_the_victor-150x150.jpg: adding to list (252)
+0029.254 (0) finding files: the_victor_slider.jpg: adding to list (253)
+0029.254 (0) finding files: neighborhood-4.jpg: adding to list (254)
+0029.254 (0) finding files: footer-retail-shopping-150x150.jpg: adding to list (255)
+0029.254 (0) finding files: clubroom.svg: adding to list (256)
+0029.254 (0) finding files: bridge-thevictor-view-300x300.jpg: adding to list (257)
+0029.254 (0) finding files: The-New-York-Times-150x22.png: adding to list (258)
+0029.254 (0) finding files: sls-itl-upcoming-gallery-627x922_c.jpg: adding to list (259)
+0029.254 (0) finding files: 2bed_2bath_248-648.pdf: adding to list (260)
+0029.254 (0) finding files: the_victor-neighborhood-4-1024x406.jpg: adding to list (261)
+0029.254 (0) finding files: vertical-footer-neighborhood-thevictor-102x150.jpg: adding to list (262)
+0029.254 (0) finding files: clubroom-2-the_victor-300x300.jpg: adding to list (263)
+0029.254 (0) finding files: model2-4-150x60.jpg: adding to list (264)
+0029.254 (0) finding files: the_victor-3.jpg: adding to list (265)
+0029.254 (0) finding files: footer-retail-restaurant-300x300.jpg: adding to list (266)
+0029.254 (0) finding files: middle-slider-cooper.jpg: adding to list (267)
+0029.254 (0) finding files: middle-slider-concert_pavilion-440px-150x86.jpg: adding to list (268)
+0029.254 (0) finding files: footer-retail-shopping-300x300.jpg: adding to list (269)
+0029.254 (0) finding files: the_victor_floorplans_living-bottom-2.jpg: adding to list (270)
+0029.254 (0) finding files: 3bed_2bath_269-569.svg: adding to list (271)
+0029.254 (0) finding files: living_room_model_the_victor.jpg: adding to list (272)
+0029.254 (0) finding files: cbs-philly.png: adding to list (273)
+0029.254 (0) finding files: bike-share.jpg: adding to list (274)
+0029.254 (0) finding files: model2-3-300x119.jpg: adding to list (275)
+0029.254 (0) finding files: left-bank.jpg: adding to list (276)
+0029.254 (0) finding files: 3bed_2bath_269-569.pdf: adding to list (277)
+0029.254 (0) finding files: 1bed-patio.svg: adding to list (278)
+0029.254 (0) finding files: the_victor-lobby-150x150.jpg: adding to list (279)
+0029.254 (0) finding files: pizza-300x300.jpg: adding to list (280)
+0029.254 (0) finding files: model2-2-300x119.jpg: adding to list (281)
+0029.254 (0) finding files: the_victor-6-150x60.jpg: adding to list (282)
+0029.254 (0) finding files: neighborhood-library.jpg: adding to list (283)
+0029.254 (0) finding files: locust_on_the_park-150x150.jpg: adding to list (284)
+0029.254 (0) finding files: the_victor-unit-front-slider-2-1024x406.jpg: adding to list (285)
+0029.254 (0) finding files: vertical-footer-neighborhood-thevictor-bridge-204x300.jpg: adding to list (286)
+0029.254 (0) finding files: the_victor_neighborhood-marina.jpg: adding to list (287)
+0029.254 (0) finding files: lifestyle-access-card.jpg: adding to list (288)
+0029.254 (0) finding files: thevictor-vertical-159x300.jpg: adding to list (289)
+0029.254 (0) finding files: the_victor-video_tour.jpg: adding to list (290)
+0029.254 (0) finding files: sucuri: adding to list (291)
+0029.254 (0) finding files: thevictor-rooftop-view.jpg: adding to list (292)
+0029.254 (0) finding files: bike-share-300x300.jpg: adding to list (293)
+0029.254 (0) finding files: twentythirteen: adding to list (294)
+0029.255 (0) finding files: theater-square-upcoming-gallery.jpg: adding to list (295)
+0029.255 (0) finding files: the_victor_slider-440.jpg: adding to list (296)
+0029.255 (0) finding files: One_Riverside-300x300.jpg: adding to list (297)
+0029.255 (0) finding files: the_victor-5-300x119.jpg: adding to list (298)
+0029.255 (0) finding files: the_victor-neighborhood-6.jpg: adding to list (299)
+0029.255 (0) finding files: neighborhood-2-1024x406.jpg: adding to list (300)
+0029.258 (0) finding files: very-apt-150x53.png: adding to list (301)
+0029.258 (0) finding files: card.svg: adding to list (302)
+0029.258 (0) finding files: One_Riverside.jpg: adding to list (303)
+0029.258 (0) finding files: the_victor-1.jpg: adding to list (304)
+0029.258 (0) finding files: middle-slider-aquarium-1024x400.jpg: adding to list (305)
+0029.258 (0) finding files: philadelphia-magazine-logo-150x38.png: adding to list (306)
+0029.258 (0) finding files: the_victor-neighborhood-1.jpg: adding to list (307)
+0029.258 (0) finding files: 2Liberty-150x150.jpg: adding to list (308)
+0029.258 (0) finding files: vertical-footer-thevictor_entrance-102x150.jpg: adding to list (309)
+0029.258 (0) finding files: south-star-150x150.jpg: adding to list (310)
+0029.258 (0) finding files: south-star-300x300.jpg: adding to list (311)
+0029.258 (0) finding files: footer-retail-coffee-300x300.jpg: adding to list (312)
+0029.258 (0) finding files: 1bed_1bath_215-515.svg: adding to list (313)
+0029.258 (0) finding files: vertical-footer-floorplans-102x150.jpg: adding to list (314)
+0029.258 (0) finding files: neighborhood-4-300x119.jpg: adding to list (315)
+0029.258 (0) finding files: the_victor-neighborhood-5.jpg: adding to list (316)
+0029.258 (0) finding files: women-with-cellphone-contact-page-300x166.jpg: adding to list (317)
+0029.258 (0) finding files: the_victor_unit_slider-440-150x86.jpg: adding to list (318)
+0029.258 (0) finding files: 2bed_2bath_236-636.pdf: adding to list (319)
+0029.258 (0) finding files: philadelphia-magazine-logo-300x75.png: adding to list (320)
+0029.258 (0) finding files: vertical-footer-pet-friendly.jpg: adding to list (321)
+0029.258 (0) finding files: the_victor-1a-1024x406.jpg: adding to list (322)
+0029.258 (0) finding files: the_victor_slider-440-150x86.jpg: adding to list (323)
+0029.258 (0) finding files: the_victor_courtyard-300x300.jpg: adding to list (324)
+0029.258 (0) finding files: the_victor_floorplans_living-bottom-2-150x112.jpg: adding to list (325)
+0029.258 (0) finding files: the_victor-neighborhood-5-1024x406.jpg: adding to list (326)
+0029.258 (0) finding files: model1-6-150x60.jpg: adding to list (327)
+0029.258 (0) finding files: the_victor-2-300x119.jpg: adding to list (328)
+0029.258 (0) finding files: middle-slider-concert_pavilion.jpg: adding to list (329)
+0029.258 (0) finding files: lifestyle-access-card-300x300.jpg: adding to list (330)
+0029.258 (0) finding files: the_victor-unit_3-150x60.jpg: adding to list (331)
+0029.258 (0) finding files: camden-neighborhood-150x150.jpg: adding to list (332)
+0029.258 (0) finding files: thevictor-rooftop-view-1024x406.jpg: adding to list (333)
+0029.258 (0) finding files: vertical-footer-neighborhood-thevictor.jpg: adding to list (334)
+0029.259 (0) finding files: vertical-footer-floorplans-204x300.jpg: adding to list (335)
+0029.259 (0) finding files: vertical-footer-thevictor_view.jpg: adding to list (336)
+0029.259 (0) finding files: clubroom-2-the_victor.jpg: adding to list (337)
+0029.259 (0) finding files: the_victor_floorplans_living-150x112.jpg: adding to list (338)
+0029.259 (0) finding files: clubroom-2-the_victor-150x150.jpg: adding to list (339)
+0029.259 (0) finding files: neighborhood-5-150x60.jpg: adding to list (340)
+0029.259 (0) finding files: the_victor-4.jpg: adding to list (341)
+0029.259 (0) finding files: the_victor_retail-pub.jpg: adding to list (342)
+0029.259 (0) finding files: retail-the_victor-150x150.jpg: adding to list (343)
+0029.259 (0) finding files: PhillyStyle.png: adding to list (344)
+0029.259 (0) finding files: the_victor-2-1024x406.jpg: adding to list (345)
+0029.259 (0) finding files: concierge-the_victor-300x300.jpg: adding to list (346)
+0029.259 (0) finding files: the_victor-5-150x60.jpg: adding to list (347)
+0029.259 (0) finding files: footer-retail-shopping.jpg: adding to list (348)
+0029.259 (0) finding files: model2-2-1024x406.jpg: adding to list (349)
+0029.259 (0) finding files: thevictor-vertical-80x150.jpg: adding to list (350)
+0029.259 (0) finding files: the_victor-unit_3.jpg: adding to list (351)
+0029.259 (0) finding files: the_victor-neighborhood-10-1024x406.jpg: adding to list (352)
+0029.259 (0) finding files: the_victor-neighborhood-11-150x60.jpg: adding to list (353)
+0029.259 (0) finding files: bridge-thevictor-view-150x150.jpg: adding to list (354)
+0029.259 (0) finding files: the_victor_courtyard-150x150.jpg: adding to list (355)
+0029.259 (0) finding files: fresh-mex-300x300.jpg: adding to list (356)
+0029.259 (0) finding files: neighborhood-downtown-day-300x119.jpg: adding to list (357)
+0029.259 (0) finding files: thevictor-rooftop-view-300x119.jpg: adding to list (358)
+0029.259 (0) finding files: camden-concert-pavilion-300x117.jpg: adding to list (359)
+0029.259 (0) finding files: the_victor_slider-300x119.jpg: adding to list (360)
+0029.259 (0) finding files: PhiladelphiaBusinessJournal.png: adding to list (361)
+0029.259 (0) finding files: storage-150x150.jpg: adding to list (362)
+0029.259 (0) finding files: video.svg: adding to list (363)
+0029.259 (0) finding files: the_victor_slider-150x60.jpg: adding to list (364)
+0029.259 (0) finding files: the_victor_courtyard.jpg: adding to list (365)
+0029.259 (0) finding files: livingroom-2-the_victor.jpg: adding to list (366)
+0029.259 (0) finding files: the_victor-neighborhood-10-150x60.jpg: adding to list (367)
+0029.259 (0) finding files: model1-3-150x60.jpg: adding to list (368)
+0029.259 (0) finding files: the_victor-1-300x119.jpg: adding to list (369)
+0029.259 (0) finding files: sls-itl-upcoming-gallery-627x922_c-102x150.jpg: adding to list (370)
+0029.259 (0) finding files: neighborhood-1-300x119.jpg: adding to list (371)
+0029.259 (0) finding files: 777-south-broad.jpg: adding to list (372)
+0029.259 (0) finding files: 1bed_1bath_215-515.pdf: adding to list (373)
+0029.259 (0) finding files: the_victor-neighborhood-3-150x60.jpg: adding to list (374)
+0029.259 (0) finding files: the_victor_neighborhood-aquarium-children.jpg: adding to list (375)
+0029.259 (0) finding files: clubroom-the_victor-150x150.jpg: adding to list (376)
+0029.259 (0) finding files: PhiladelphiaBusinessJournal-300x72.png: adding to list (377)
+0029.259 (0) finding files: diningroom-the_victor-300x300.jpg: adding to list (378)
+0029.259 (0) finding files: pure_mind-the_victor.jpg: adding to list (379)
+0029.259 (0) finding files: the_victor-unit_4-150x60.jpg: adding to list (380)
+0029.259 (0) finding files: second-slider-aquarium-150x59.jpg: adding to list (381)
+0029.259 (0) finding files: the_victor-neighborhood-8-1024x406.jpg: adding to list (382)
+0029.259 (0) finding files: the_victor-unit_3-300x119.jpg: adding to list (383)
+0029.259 (0) finding files: the_victor-3-1024x406.jpg: adding to list (384)
+0029.259 (0) finding files: sls-itl-upcoming-gallery-627x922_c-204x300.jpg: adding to list (385)
+0029.259 (0) finding files: the_victor_unit_slider.jpg: adding to list (386)
+0029.259 (0) finding files: One-Ardmore-Place-upcoming-gallery-627x922_c-204x300.jpg: adding to list (387)
+0029.260 (0) finding files: middle-slider-camden_concert_pavilion-440px.jpg: adding to list (388)
+0029.260 (0) finding files: the_victor_retail-pizza-150x150.jpg: adding to list (389)
+0029.260 (0) finding files: vertical-footer-pet-friendly-204x300.jpg: adding to list (390)
+0029.260 (0) finding files: vertical-footer-thevictor_view-204x300.jpg: adding to list (391)
+0029.260 (0) finding files: left-bank-300x300.jpg: adding to list (392)
+0029.260 (0) finding files: pizza-150x150.jpg: adding to list (393)
+0029.260 (0) finding files: the_victor-unit-front-slider-2-150x60.jpg: adding to list (394)
+0029.260 (0) finding files: very-apt.png: adding to list (395)
+0029.260 (0) finding files: women-with-cellphone-contact-page-150x83.jpg: adding to list (396)
+0029.260 (0) finding files: 2bed_2bath_209-509.pdf: adding to list (397)
+0029.260 (0) finding files: The-New-York-Times.png: adding to list (398)
+0029.260 (0) finding files: gym-the_victor-300x300.jpg: adding to list (399)
+0029.260 (0) finding files: the_victor-neighborhood-12-1024x406.jpg: adding to list (400)
+0029.263 (0) finding files: the_victor-1a-300x119.jpg: adding to list (401)
+0029.263 (0) finding files: neighborhood-7-1024x406.jpg: adding to list (402)
+0029.263 (0) finding files: the_victor-unit_1.jpg: adding to list (403)
+0029.263 (0) finding files: edible-arrangements-300x300.jpg: adding to list (404)
+0029.263 (0) finding files: the_victor-unit_2-1024x406.jpg: adding to list (405)
+0029.263 (0) finding files: the_victor-6-1024x406.jpg: adding to list (406)
+0029.263 (0) finding files: model1-6-1024x406.jpg: adding to list (407)
+0029.263 (0) finding files: the_victor-neighborhood-2-150x60.jpg: adding to list (408)
+0029.263 (0) finding files: the_victor_unit_slider-440-300x172.jpg: adding to list (409)
+0029.263 (0) finding files: the_victor_retail-edible_arrangements.jpg: adding to list (410)
+0029.263 (0) finding files: edible-arrangements.jpg: adding to list (411)
+0029.263 (0) finding files: the_victor-1a-150x60.jpg: adding to list (412)
+0029.263 (0) finding files: middle-slider-camden-aquarium-440px.jpg: adding to list (413)
+0029.264 (0) finding files: model2-4.jpg: adding to list (414)
+0029.264 (0) finding files: the_victor_floorplans_living-top-2.jpg: adding to list (415)
+0029.264 (0) finding files: the-Victor.jpg: adding to list (416)
+0029.264 (0) finding files: the_victor-4-1024x406.jpg: adding to list (417)
+0029.264 (0) finding files: the_victor-neighborhood-9.jpg: adding to list (418)
+0029.264 (0) finding files: the_victor_retail-bbt-300x300.jpg: adding to list (419)
+0029.264 (0) finding files: gym-the_victor-150x150.jpg: adding to list (420)
+0029.264 (0) finding files: the_victor_retail-coming_soon.jpg: adding to list (421)
+0029.264 (0) finding files: skyline-thevictor-view-300x300.jpg: adding to list (422)
+0029.264 (0) finding files: bedroom_model_victor-150x150.jpg: adding to list (423)
+0029.264 (0) finding files: bedroom_model_victor.jpg: adding to list (424)
+0029.264 (0) finding files: 2bed_2bath_248-648.svg: adding to list (425)
+0029.264 (0) finding files: skyline-thevictor-view.jpg: adding to list (426)
+0029.264 (0) finding files: the_victor-neighborhood-8-150x60.jpg: adding to list (427)
+0029.264 (0) finding files: grass.jpg: adding to list (428)
+0029.264 (0) finding files: the_victor-6.jpg: adding to list (429)
+0029.264 (0) finding files: the_victort-footer-gallery-300x111.jpg: adding to list (430)
+0029.264 (0) finding files: cbs-philly-300x57.png: adding to list (431)
+0029.264 (0) finding files: bike.svg: adding to list (432)
+0029.264 (0) finding files: the_victor_neighborhood-camden-marina-150x150.jpg: adding to list (433)
+0029.264 (0) finding files: bridge-thevictor-view.jpg: adding to list (434)
+0029.264 (0) finding files: the_victor-2.jpg: adding to list (435)
+0029.264 (0) finding files: the_victor-neighborhood-11-300x119.jpg: adding to list (436)
+0029.264 (0) finding files: parking-150x150.jpg: adding to list (437)
+0029.264 (0) finding files: the_victor_retail-coming_soon-150x150.jpg: adding to list (438)
+0029.264 (0) finding files: model2-2.jpg: adding to list (439)
+0029.264 (0) finding files: locust_on_the_park.jpg: adding to list (440)
+0029.264 (0) finding files: neighborhood-1-150x60.jpg: adding to list (441)
+0029.264 (0) finding files: the-Victor-150x150.jpg: adding to list (442)
+0029.264 (0) finding files: 1bed_platform_1bath_341-641.svg: adding to list (443)
+0029.264 (0) finding files: Hyde-Hotel-upcoming-gallery-102x150.jpg: adding to list (444)
+0029.264 (0) finding files: the_victor-unit_4-300x119.jpg: adding to list (445)
+0029.264 (0) finding files: middle-slider-aquarium-150x59.jpg: adding to list (446)
+0029.264 (0) finding files: the_victor-unit-front-slider-2.jpg: adding to list (447)
+0029.264 (0) finding files: neighborhood-3-1024x406.jpg: adding to list (448)
+0029.264 (0) finding files: camden-aquarium.jpg: adding to list (449)
+0029.264 (0) finding files: second-slider-aquarium-1024x400.jpg: adding to list (450)
+0029.264 (0) finding files: neighborhood-1-1024x406.jpg: adding to list (451)
+0029.264 (0) finding files: storage.jpg: adding to list (452)
+0029.264 (0) finding files: bedroom-the_victor.jpg: adding to list (453)
+0029.264 (0) finding files: middle-slider-cooper-440px-300x172.jpg: adding to list (454)
+0029.264 (0) finding files: the_victor_view_slider-1024x406.jpg: adding to list (455)
+0029.264 (0) finding files: camden-aquarium-300x300.jpg: adding to list (456)
+0029.264 (0) finding files: pet-friendly.svg: adding to list (457)
+0029.264 (0) finding files: 2bed_2bath_two-levels.svg: adding to list (458)
+0029.264 (0) finding files: the_victor_unit_slider-150x60.jpg: adding to list (459)
+0029.264 (0) finding files: the_victor-3-300x119.jpg: adding to list (460)
+0029.264 (0) finding files: women-with-cellphone-contact-page.jpg: adding to list (461)
+0029.264 (0) finding files: lobby-thevictor.jpg: adding to list (462)
+0029.264 (0) finding files: vertical-footer-thevictor_entrance.jpg: adding to list (463)
+0029.264 (0) finding files: grass-300x300.jpg: adding to list (464)
+0029.264 (0) finding files: leed.svg: adding to list (465)
+0029.264 (0) finding files: the_victor-neighborhood-7-150x60.jpg: adding to list (466)
+0029.264 (0) finding files: courtyard.svg: adding to list (467)
+0029.265 (0) finding files: logo-fav.png: adding to list (468)
+0029.265 (0) finding files: vertical-footer-thevictor.jpg: adding to list (469)
+0029.265 (0) finding files: middle-slider-cooper-1024x400.jpg: adding to list (470)
+0029.265 (0) finding files: view-downtown-zoom-300x119.jpg: adding to list (471)
+0029.265 (0) finding files: the_victor-neighborhood-10.jpg: adding to list (472)
+0029.265 (0) finding files: the_victor-neighborhood-11.jpg: adding to list (473)
+0029.265 (0) finding files: edible-arrangements-150x150.jpg: adding to list (474)
+0029.265 (0) finding files: the_victor-1-1024x406.jpg: adding to list (475)
+0029.265 (0) finding files: the_victor-unit_2.jpg: adding to list (476)
+0029.265 (0) finding files: studio_1bath.pdf: adding to list (477)
+0029.265 (0) finding files: the_victor-unit_4-1024x406.jpg: adding to list (478)
+0029.265 (0) finding files: the_victor_view_slider-150x60.jpg: adding to list (479)
+0029.265 (0) finding files: diningroom-the_victor-150x150.jpg: adding to list (480)
+0029.265 (0) finding files: PhiladelphiaBusinessJournal-150x36.png: adding to list (481)
+0029.265 (0) finding files: the_victor_retail-bbt-150x150.jpg: adding to list (482)
+0029.265 (0) finding files: philadelphia-magazine-logo.png: adding to list (483)
+0029.265 (0) finding files: the_victor-unit-front-slider-2-300x119.jpg: adding to list (484)
+0029.265 (0) finding files: view-bridge-300x119.jpg: adding to list (485)
+0029.265 (0) finding files: camden-marina-150x150.jpg: adding to list (486)
+0029.265 (0) finding files: PhillyStyle-300x70.png: adding to list (487)
+0029.265 (0) finding files: fitness.svg: adding to list (488)
+0029.265 (0) finding files: neighborhood-6.jpg: adding to list (489)
+0029.265 (0) finding files: view-bridge.jpg: adding to list (490)
+0029.265 (0) finding files: camden-concert-pavilion-1024x400.jpg: adding to list (491)
+0029.265 (0) finding files: The-New-York-Times-300x43.png: adding to list (492)
+0029.265 (0) finding files: middle-slider-cooper-150x59.jpg: adding to list (493)
+0029.265 (0) finding files: south-star.jpg: adding to list (494)
+0029.265 (0) finding files: thevictor-rooftop-view-2-150x60.jpg: adding to list (495)
+0029.265 (0) finding files: model1-3-300x119.jpg: adding to list (496)
+0029.265 (0) finding files: thevictor-rooftop-view-2.jpg: adding to list (497)
+0029.265 (0) finding files: the_victor_retail-coming_soon-300x300.jpg: adding to list (498)
+0029.265 (0) finding files: vertical-footer-thevictor_courtyard-102x150.jpg: adding to list (499)
+0029.265 (0) finding files: vertical-footer-neighborhood-thevictor-bridge.jpg: adding to list (500)
+0029.269 (0) finding files: One-Riverside-night.jpg: adding to list (501)
+0029.269 (0) finding files: left-bank-150x150.jpg: adding to list (502)
+0029.269 (0) finding files: neighborhood-3-150x60.jpg: adding to list (503)
+0029.269 (0) finding files: the_victor-neighborhood-11-1024x406.jpg: adding to list (504)
+0029.269 (0) finding files: clubroom-the_victor-300x300.jpg: adding to list (505)
+0029.269 (0) finding files: livingroom-2-the_victor-150x150.jpg: adding to list (506)
+0029.269 (0) finding files: the_victor-neighborhood-3-1024x406.jpg: adding to list (507)
+0029.269 (0) finding files: the_victor-unit_4.jpg: adding to list (508)
+0029.269 (0) finding files: dining_model_victor.jpg: adding to list (509)
+0029.269 (0) finding files: the_victor_neighborhood-aquarium-children-150x150.jpg: adding to list (510)
+0029.269 (0) finding files: the_victor-neighborhood-1-300x119.jpg: adding to list (511)
+0029.269 (0) finding files: view-downtown-zoom-150x60.jpg: adding to list (512)
+0029.269 (0) finding files: One-Ardmore-Place-upcoming-gallery-627x922_c.jpg: adding to list (513)
+0029.269 (0) finding files: the_victor-neighborhood-1-150x60.jpg: adding to list (514)
+0029.269 (0) finding files: the_victor-neighborhood-1-1024x406.jpg: adding to list (515)
+0029.269 (0) finding files: multifamily-executive-logo-300x223.png: adding to list (516)
+0029.269 (0) finding files: the_victor_slider-1024x406.jpg: adding to list (517)
+0029.269 (0) finding files: the_victor_map_icon.png: adding to list (518)
+0029.269 (0) finding files: the_victor-4-300x119.jpg: adding to list (519)
+0029.269 (0) finding files: livingroom-2-the_victor-300x300.jpg: adding to list (520)
+0029.269 (0) finding files: vertical-footer-floorplans.jpg: adding to list (521)
+0029.269 (0) finding files: dining_model_victor-150x150.jpg: adding to list (522)
+0029.269 (0) finding files: middle-slider-aquarium-300x117.jpg: adding to list (523)
+0029.269 (0) finding files: camden-marina-300x300.jpg: adding to list (524)
+0029.269 (0) finding files: the_victor-unit_1-1024x406.jpg: adding to list (525)
+0029.269 (0) finding files: the_victor-lobby.jpg: adding to list (526)
+0029.269 (0) finding files: pure_mind-the_victor-300x300.jpg: adding to list (527)
+0029.269 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0029.310 (0) Total entities for the zip file: 17 directories, 622 files (0 skipped as non-modified), 42.9 MB
+0029.318 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.325 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0029.333 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0029.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 622 files batched, 327 (327) added so far); re-opening (prior size: 0 KB)
+0032.878 (0) A useful amount of data was added after this amount of zip processing: 4.4 s (normalised: 4.4 s, rate: 5773.4 KB/s)
+0032.886 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.43706607819, normalised_time=4.43414537856, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=35471638)
+0032.901 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip.tmp: 400 files added (on-disk size: 24184 KB)
+0032.910 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip.tmp: 500 files added (on-disk size: 24184 KB)
+0032.919 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip.tmp: 600 files added (on-disk size: 24184 KB)
+0035.400 (0) Created uploads zip (0) - 41488.6 KB in 6.1 s (6771.7 KB/s) (sha1: a619e9c72efbc5e2de61c2d10e95443ab5ba1291, sha256: abafe9c9a3db46ee0bec86bfe3862f1c191b40756b382d61d8670f150f490526)
+0035.409 (0) Beginning backup of other directories found in the content directory (index: 0)
+0035.412 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0035.415 (0) Looking for candidates to backup in: /nas/content/live/thevictor/wp-content
+0035.418 (0) finding files: mysql.sql: skipping: excluded by options
+0035.422 (0) finding files: uploads: skipping: this is the uploads directory
+0035.425 (0) finding files: plugins: skipping: this is the plugins directory
+0035.428 (0) finding files: index.php: adding to list (1)
+0035.431 (0) finding files: mu-plugins: adding to list (2)
+0035.434 (0) finding files: themes: skipping: this is the themes directory
+0035.436 (0) finding files: updraft: skipping: this is the updraft directory
+0035.439 (0) finding files: advanced-cache.php: adding to list (3)
+0035.442 (0) finding files: upgrade: skipping: excluded by options
+0035.485 (0) Total entities for the zip file: 12 directories, 104 files (0 skipped as non-modified), 1.1 MB
+0035.493 (0) Zip: backup_2018-10-22-1712_The_Victor_b215c660eef9-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0035.887 (0) Created others zip (0) - 554.6 KB in 0.4 s (1253.2 KB/s) (sha1: cb249a75f8ec9ab1354db482d5fbb7316ac4a5a3, sha256: 21eafb2d43ee84d7d86bd5a154c4e9b3e0bfb28dbc4d25a4e29b79e33718d1b5)
+0035.902 (0) Saving backup status to database (elements: 8)
+0035.911 (0) Beginning creation of database dump (WordPress DB)
+0036.247 (0) Table wp_options: Total expected rows (approximate): 386
+0036.264 (0) Table wp_options: Total rows added: 382 in 0.01 seconds
+0036.268 (0) Table wp_options: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_options.table.gz - 43 KB)
+0036.280 (0) Table wp_users: Total expected rows (approximate): 2
+0036.285 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0036.288 (0) Table wp_users: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_users.table.gz - 0.6 KB)
+0036.325 (0) Table wp_usermeta: Total expected rows (approximate): 48
+0036.331 (0) Table wp_usermeta: Total rows added: 48 in 0.00 seconds
+0036.334 (0) Table wp_usermeta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_usermeta.table.gz - 2.8 KB)
+0036.344 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0036.348 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0036.352 (0) Table wp_commentmeta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0036.364 (0) Table wp_comments: Total expected rows (approximate): 63
+0036.373 (0) Table wp_comments: Total rows added: 65 in 0.01 seconds
+0036.377 (0) Table wp_comments: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_comments.table.gz - 5.5 KB)
+0036.389 (0) Table wp_links: Total expected rows (approximate): 0
+0036.394 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0036.397 (0) Table wp_links: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_links.table.gz - 0.4 KB)
+0036.408 (0) Table wp_postmeta: Total expected rows (approximate): 3675
+0036.502 (0) Table wp_postmeta: Total rows added: 3657 in 0.09 seconds
+0036.506 (0) Table wp_postmeta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_postmeta.table.gz - 79.5 KB)
+0036.519 (0) Table wp_posts: Total expected rows (approximate): 481
+0036.563 (0) Table wp_posts: Total rows added: 469 in 0.04 seconds
+0036.568 (0) Table wp_posts: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_posts.table.gz - 23.3 KB)
+0036.580 (0) Table wp_term_relationships: Total expected rows (approximate): 121
+0036.586 (0) Table wp_term_relationships: Total rows added: 121 in 0.00 seconds
+0036.590 (0) Table wp_term_relationships: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_term_relationships.table.gz - 0.7 KB)
+0036.603 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0036.608 (0) Table wp_term_taxonomy: Total rows added: 4 in 0.00 seconds
+0036.611 (0) Table wp_term_taxonomy: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0036.629 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0036.635 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0036.638 (0) Table wp_termmeta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_termmeta.table.gz - 0.4 KB)
+0036.651 (0) Table wp_terms: Total expected rows (approximate): 4
+0036.657 (0) Table wp_terms: Total rows added: 4 in 0.00 seconds
+0036.661 (0) Table wp_terms: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_terms.table.gz - 0.5 KB)
+0036.672 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 8
+0036.676 (0) Table wp_yoast_seo_links: Total rows added: 8 in 0.00 seconds
+0036.680 (0) Table wp_yoast_seo_links: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_yoast_seo_links.table.gz - 0.9 KB)
+0036.691 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 8
+0036.696 (0) Table wp_yoast_seo_meta: Total rows added: 8 in 0.00 seconds
+0036.699 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0036.708 (0) Table wp_create_map: Total expected rows (approximate): 1
+0036.730 (0) Table wp_create_map: Total rows added: 1 in 0.02 seconds
+0036.734 (0) Table wp_create_map: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_create_map.table.gz - 2.3 KB)
+0036.746 (0) Table wp_gf_draft_submissions: Total expected rows (approximate): 0
+0036.750 (0) Table wp_gf_draft_submissions: Total rows added: 0 in 0.00 seconds
+0036.753 (0) Table wp_gf_draft_submissions: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_draft_submissions.table.gz - 0.4 KB)
+0036.763 (0) Table wp_gf_entry: Total expected rows (approximate): 173
+0036.777 (0) Table wp_gf_entry: Total rows added: 188 in 0.01 seconds
+0036.781 (0) Table wp_gf_entry: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_entry.table.gz - 6.1 KB)
+0036.793 (0) Table wp_gf_entry_meta: Total expected rows (approximate): 802
+0036.814 (0) Table wp_gf_entry_meta: Total rows added: 871 in 0.02 seconds
+0036.819 (0) Table wp_gf_entry_meta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_entry_meta.table.gz - 22.4 KB)
+0036.830 (0) Table wp_gf_entry_notes: Total expected rows (approximate): 0
+0036.835 (0) Table wp_gf_entry_notes: Total rows added: 0 in 0.00 seconds
+0036.838 (0) Table wp_gf_entry_notes: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_entry_notes.table.gz - 0.4 KB)
+0036.847 (0) Table wp_gf_form: Total expected rows (approximate): 2
+0036.852 (0) Table wp_gf_form: Total rows added: 2 in 0.00 seconds
+0036.855 (0) Table wp_gf_form: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_form.table.gz - 0.5 KB)
+0036.866 (0) Table wp_gf_form_meta: Total expected rows (approximate): 2
+0036.871 (0) Table wp_gf_form_meta: Total rows added: 2 in 0.00 seconds
+0036.874 (0) Table wp_gf_form_meta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_form_meta.table.gz - 1.5 KB)
+0036.884 (0) Table wp_gf_form_view: Total expected rows (approximate): 756
+0036.901 (0) Table wp_gf_form_view: Total rows added: 838 in 0.01 seconds
+0036.905 (0) Table wp_gf_form_view: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_form_view.table.gz - 11.7 KB)
+0036.917 (0) Table wp_group_map: Total expected rows (approximate): 9
+0036.951 (0) Table wp_group_map: Total rows added: 9 in 0.03 seconds
+0036.955 (0) Table wp_group_map: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_group_map.table.gz - 0.7 KB)
+0036.965 (0) Table wp_map_locations: Total expected rows (approximate): 50
+0036.993 (0) Table wp_map_locations: Total rows added: 50 in 0.03 seconds
+0036.997 (0) Table wp_map_locations: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_map_locations.table.gz - 2.8 KB)
+0037.008 (0) Table wp_map_routes: Total expected rows (approximate): 0
+0037.012 (0) Table wp_map_routes: Total rows added: 0 in 0.00 seconds
+0037.016 (0) Table wp_map_routes: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_map_routes.table.gz - 0.4 KB)
+0037.027 (0) Table wp_pps_countries: Total expected rows (approximate): 240
+0037.037 (0) Table wp_pps_countries: Total rows added: 240 in 0.01 seconds
+0037.041 (0) Table wp_pps_countries: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_countries.table.gz - 3.7 KB)
+0037.053 (0) Table wp_pps_modules: Total expected rows (approximate): 13
+0037.057 (0) Table wp_pps_modules: Total rows added: 13 in 0.00 seconds
+0037.060 (0) Table wp_pps_modules: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_modules.table.gz - 0.5 KB)
+0037.073 (0) Table wp_pps_modules_type: Total expected rows (approximate): 2
+0037.078 (0) Table wp_pps_modules_type: Total rows added: 2 in 0.00 seconds
+0037.081 (0) Table wp_pps_modules_type: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_modules_type.table.gz - 0.3 KB)
+0037.091 (0) Table wp_pps_popup: Total expected rows (approximate): 25
+0037.116 (0) Table wp_pps_popup: Total rows added: 47 in 0.02 seconds
+0037.121 (0) Table wp_pps_popup: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_popup.table.gz - 83.8 KB)
+0037.133 (0) Table wp_pps_popup_show_categories: Total expected rows (approximate): 0
+0037.137 (0) Table wp_pps_popup_show_categories: Total rows added: 0 in 0.00 seconds
+0037.140 (0) Table wp_pps_popup_show_categories: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_popup_show_categories.table.gz - 0.3 KB)
+0037.152 (0) Table wp_pps_popup_show_pages: Total expected rows (approximate): 0
+0037.156 (0) Table wp_pps_popup_show_pages: Total rows added: 1 in 0.00 seconds
+0037.160 (0) Table wp_pps_popup_show_pages: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_popup_show_pages.table.gz - 0.3 KB)
+0037.171 (0) Table wp_pps_statistics: Total expected rows (approximate): 126502
+0042.429 (0) Table wp_pps_statistics: Total rows added: 144268 in 5.26 seconds
+0042.436 (0) Table wp_pps_statistics: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_statistics.table.gz - 981.6 KB)
+0042.453 (0) Table wp_pps_subscribers: Total expected rows (approximate): 0
+0042.459 (0) Table wp_pps_subscribers: Total rows added: 0 in 0.00 seconds
+0042.463 (0) Table wp_pps_subscribers: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_subscribers.table.gz - 0.4 KB)
+0042.479 (0) Table wp_pps_usage_stat: Total expected rows (approximate): 9
+0042.486 (0) Table wp_pps_usage_stat: Total rows added: 9 in 0.00 seconds
+0042.490 (0) Table wp_pps_usage_stat: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_usage_stat.table.gz - 0.6 KB)
+0042.499 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.508 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.510 (0) Table wp_rg_form: Total expected rows (approximate): 2
+0042.510 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.514 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.520 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.520 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.521 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.522 (0) Table wp_rg_form: Total rows added: 2 in 0.01 seconds
+0042.522 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.526 (0) Table wp_rg_form: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_form.table.gz - 0.4 KB)
+0042.527 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.535 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.545 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.554 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.555 (0) Table wp_rg_form_meta: Total expected rows (approximate): 2
+0042.556 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.560 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.564 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.565 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.566 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.567 (0) Table wp_rg_form_meta: Total rows added: 2 in 0.01 seconds
+0042.567 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.572 (0) Table wp_rg_form_meta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_form_meta.table.gz - 1.5 KB)
+0042.572 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.580 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.589 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.598 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.599 (0) Table wp_rg_form_view: Total expected rows (approximate): 673
+0042.600 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.604 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.609 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.610 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.620 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.623 (0) Table wp_rg_form_view: Total rows added: 673 in 0.02 seconds
+0042.624 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.629 (0) Table wp_rg_form_view: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_form_view.table.gz - 10.1 KB)
+0042.629 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.638 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.648 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.658 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.659 (0) Table wp_rg_incomplete_submissions: Total expected rows (approximate): 0
+0042.659 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.665 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.671 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.672 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.673 (0) Table wp_rg_incomplete_submissions: Total rows added: 0 in 0.01 seconds
+0042.673 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.677 (0) Table wp_rg_incomplete_submissions: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_incomplete_submissions.table.gz - 0.4 KB)
+0042.678 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.685 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.695 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.704 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.705 (0) Table wp_rg_lead: Total expected rows (approximate): 164
+0042.705 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.709 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.714 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.715 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.724 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.727 (0) Table wp_rg_lead: Total rows added: 164 in 0.02 seconds
+0042.727 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.733 (0) Table wp_rg_lead: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead.table.gz - 5.5 KB)
+0042.734 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.743 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.753 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.763 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.764 (0) Table wp_rg_lead_detail: Total expected rows (approximate): 763
+0042.765 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.769 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.774 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.775 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.790 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.794 (0) Table wp_rg_lead_detail: Total rows added: 763 in 0.02 seconds
+0042.794 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.799 (0) Table wp_rg_lead_detail: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_detail.table.gz - 18 KB)
+0042.800 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.810 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.819 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.823 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.824 (0) Table wp_rg_lead_detail_long: Total expected rows (approximate): 0
+0042.825 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.828 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.833 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.834 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.834 (0) Table wp_rg_lead_detail_long: Total rows added: 0 in 0.01 seconds
+0042.835 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.839 (0) Table wp_rg_lead_detail_long: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_detail_long.table.gz - 0.3 KB)
+0042.839 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.848 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.857 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.866 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.867 (0) Table wp_rg_lead_meta: Total expected rows (approximate): 0
+0042.868 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.871 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.877 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.878 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.878 (0) Table wp_rg_lead_meta: Total rows added: 0 in 0.01 seconds
+0042.879 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.882 (0) Table wp_rg_lead_meta: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_meta.table.gz - 0.4 KB)
+0042.883 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.891 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.901 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.909 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.911 (0) Table wp_rg_lead_notes: Total expected rows (approximate): 0
+0042.911 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.915 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.920 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.921 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.922 (0) Table wp_rg_lead_notes: Total rows added: 0 in 0.01 seconds
+0042.922 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.926 (0) Table wp_rg_lead_notes: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_notes.table.gz - 0.4 KB)
+0042.927 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.937 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0042.952 (0) Table wp_wpgmp_backups: Total expected rows (approximate): 0
+0042.958 (0) Table wp_wpgmp_backups: Total rows added: 0 in 0.00 seconds
+0042.962 (0) Table wp_wpgmp_backups: finishing file (backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_wpgmp_backups.table.gz - 0.3 KB)
+0042.977 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_options.table.gz (1/44): adding to final database dump
+0042.988 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_users.table.gz (2/44): adding to final database dump
+0042.993 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_usermeta.table.gz (3/44): adding to final database dump
+0042.998 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_commentmeta.table.gz (4/44): adding to final database dump
+0043.002 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_comments.table.gz (5/44): adding to final database dump
+0043.008 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_links.table.gz (6/44): adding to final database dump
+0043.013 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_postmeta.table.gz (7/44): adding to final database dump
+0043.052 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_posts.table.gz (8/44): adding to final database dump
+0043.066 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_term_relationships.table.gz (9/44): adding to final database dump
+0043.072 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_term_taxonomy.table.gz (10/44): adding to final database dump
+0043.076 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_termmeta.table.gz (11/44): adding to final database dump
+0043.081 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_terms.table.gz (12/44): adding to final database dump
+0043.085 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_yoast_seo_links.table.gz (13/44): adding to final database dump
+0043.089 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_yoast_seo_meta.table.gz (14/44): adding to final database dump
+0043.094 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_create_map.table.gz (15/44): adding to final database dump
+0043.100 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_draft_submissions.table.gz (16/44): adding to final database dump
+0043.104 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_entry.table.gz (17/44): adding to final database dump
+0043.112 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_entry_meta.table.gz (18/44): adding to final database dump
+0043.123 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_entry_notes.table.gz (19/44): adding to final database dump
+0043.128 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_form.table.gz (20/44): adding to final database dump
+0043.132 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_form_meta.table.gz (21/44): adding to final database dump
+0043.137 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_gf_form_view.table.gz (22/44): adding to final database dump
+0043.148 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_group_map.table.gz (23/44): adding to final database dump
+0043.153 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_map_locations.table.gz (24/44): adding to final database dump
+0043.159 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_map_routes.table.gz (25/44): adding to final database dump
+0043.163 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_countries.table.gz (26/44): adding to final database dump
+0043.169 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_modules.table.gz (27/44): adding to final database dump
+0043.173 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_modules_type.table.gz (28/44): adding to final database dump
+0043.180 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_popup.table.gz (29/44): adding to final database dump
+0043.200 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_popup_show_categories.table.gz (30/44): adding to final database dump
+0043.205 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_popup_show_pages.table.gz (31/44): adding to final database dump
+0043.210 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_statistics.table.gz (32/44): adding to final database dump
+0043.942 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_subscribers.table.gz (33/44): adding to final database dump
+0043.947 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_pps_usage_stat.table.gz (34/44): adding to final database dump
+0043.952 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_form.table.gz (35/44): adding to final database dump
+0043.953 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0043.961 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_form_meta.table.gz (36/44): adding to final database dump
+0043.962 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0043.970 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_form_view.table.gz (37/44): adding to final database dump
+0043.970 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_form_view table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0043.981 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_incomplete_submissions.table.gz (38/44): adding to final database dump
+0043.982 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_incomplete_submissions table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0043.987 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead.table.gz (39/44): adding to final database dump
+0043.988 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0043.997 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_detail.table.gz (40/44): adding to final database dump
+0043.998 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0044.013 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_detail_long.table.gz (41/44): adding to final database dump
+0044.013 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_detail table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0044.020 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_meta.table.gz (42/44): adding to final database dump
+0044.021 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_meta table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0044.029 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_rg_lead_notes.table.gz (43/44): adding to final database dump
+0044.030 (0) PHP event: code E_USER_NOTICE: An outdated add-on or custom code is attempting to access the wp_rg_lead_notes table which is not valid in this version of Gravity Forms. Update your add-ons and custom code to prevent loss of form data. Further details: https://docs.gravityforms.com/database-storage-structure-reference/#changes-from-gravity-forms-2-2 (line 5153, wp-content/plugins/gravityforms/gravityforms.php)
+0044.036 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db-table-wp_wpgmp_backups.table.gz (44/44): adding to final database dump
+0044.040 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz: finished writing out complete database file (1280 KB)
+0044.079 (0) Total database tables backed up: 44 (backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz, size: 1342701, sha256)
+0044.102 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0044.107 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0044.111 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0044.115 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-others.zip: others: This file has not yet been successfully uploaded: will queue
+0044.118 (0) backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz: db: This file has not yet been successfully uploaded: will queue
+0044.122 (0) Saving backup history. Total backup size: 85.3 MB
+0044.132 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0044.146 (0) Cloud backup selection (1/1): s3 with instance (1/1) (last)
+0044.150 (0) Beginning dispatch of backup to remote (s3) (instance identifier s-534086a2c50a42b86310e94b4aa94cc3)
+0044.280 (0) Set region: us-west-2
+0044.286 (0) S3 upload (us-west-2): backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip (chunks: 6) -> s3://thevictor/backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip
+0044.701 (0) S3 chunked upload: got multipart ID: zw_htAdtMvRaRuf0vqc2iM1zTjgRpM2qNj0.o10Auz7qOA_03Y8jDXP2osoyjI9J5tMgNOtl.QPxLqGLbcWhsz3v5XHTthvfEwtWpT87ld5pK83ALXsMF2QdWP7x2v9m
+0045.875 (0) S3 chunked upload: 16.7 % uploaded (1, "85e840ab575b6892c2d999bd0fe78a7c")
+0047.209 (0) S3 chunked upload: 33.3 % uploaded (2, "454b9500b930f51877e7d1c64a369058")
+0048.248 (0) S3 chunked upload: 50 % uploaded (3, "9d4d3033a5f76cbe24d7ed53bba669ac")
+0048.730 (0) S3 chunked upload: 66.7 % uploaded (4, "cbf9395c60a110a7a8ac81b9775163ff")
+0049.226 (0) S3 chunked upload: 83.3 % uploaded (5, "609f8bdf65d52638785f3d3fb2005c96")
+0049.761 (0) S3 chunked upload: 100 % uploaded (6, "7e0d50724f28ed9cb47f5bb89e5aafaa")
+0049.775 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0050.154 (0) S3 upload (plugins0): re-assembly succeeded
+0050.164 (0) Recording as successfully uploaded: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip (22239759e8c667740201943d804e954f)
+0050.187 (0) Deleting local file: backup_2018-10-22-1712_The_Victor_b215c660eef9-plugins.zip: OK
+0050.194 (0) S3 upload (us-west-2): backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip (chunks: 3) -> s3://thevictor/backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip
+0050.289 (0) S3 chunked upload: got multipart ID: n1pzr6X7sZqGNEUE56cmdN9UYs3XwtmSzUQpZ_lOO0DcqJ1wkLjImXyaN4UhWUWLr6hnGMdo3iL9z.kcvDN0bP1ipylQyiLcsG_BqhVcCv96YaJ8iGF1VXut0PnaXSze
+0050.993 (0) S3 chunked upload: 33.3 % uploaded (1, "143bc5643487b1c22702b8c6ebcc1df5")
+0051.698 (0) S3 chunked upload: 66.7 % uploaded (2, "323ee246d11c6775fb04f38f15e2c42b")
+0052.299 (0) S3 chunked upload: 100 % uploaded (3, "adc6c82ce8bdefe40b9a9818c71b8161")
+0052.313 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0052.603 (0) S3 upload (themes0): re-assembly succeeded
+0052.613 (0) Recording as successfully uploaded: backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip (2be79eb04717c97d4ebeb5a87c9c390b)
+0052.631 (0) Deleting local file: backup_2018-10-22-1712_The_Victor_b215c660eef9-themes.zip: OK
+0052.637 (0) S3 upload (us-west-2): backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip (chunks: 9) -> s3://thevictor/backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip
+0052.761 (0) S3 chunked upload: got multipart ID: 17VYzjAXAMSEy3da.FOyIJ2xXgV9AKRbEeYes.te1MFq7fnBrBXimW45H0Sn97lygIF4YuAG4ScncUr5dyJ8_Aul0MC6QHHz9Wf0a1vK8JNVQr9tcXFEXnSVVvK2fPOh
+0053.732 (0) S3 chunked upload: 11.1 % uploaded (1, "7dd7c0a4ff11ba33cb19f63e7107b051")
+0054.997 (0) S3 chunked upload: 22.2 % uploaded (2, "08182ef4ad38ca62b28362350e97456d")
+0056.287 (0) S3 chunked upload: 33.3 % uploaded (3, "ec9afde13dd8a912317033727ec44378")
+0057.479 (0) S3 chunked upload: 44.4 % uploaded (4, "c7a93047ebb84a685a19fc31219065b9")
+0058.636 (0) S3 chunked upload: 55.6 % uploaded (5, "edfe2c2ab53fefb21faae0814abd851d")
+0060.077 (0) S3 chunked upload: 66.7 % uploaded (6, "f3f1fb0e233f7683e35aecb2d6a843ed")
+0061.316 (0) S3 chunked upload: 77.8 % uploaded (7, "02af2be9a3e4888c5d5d981fa50e9b85")
+0062.501 (0) S3 chunked upload: 88.9 % uploaded (8, "0b358a327275da2ee06966d5e06964aa")
+0062.724 (0) S3 chunked upload: 100 % uploaded (9, "b428237feeb350aa49a83114a9ae34e7")
+0062.734 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0063.112 (0) S3 upload (uploads0): re-assembly succeeded
+0063.121 (0) Recording as successfully uploaded: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip (ffc80b737a32a7088843b0cb5483f357)
+0063.145 (0) Deleting local file: backup_2018-10-22-1712_The_Victor_b215c660eef9-uploads.zip: OK
+0063.151 (0) S3 upload (us-west-2): backup_2018-10-22-1712_The_Victor_b215c660eef9-others.zip (chunks: 1) -> s3://thevictor/backup_2018-10-22-1712_The_Victor_b215c660eef9-others.zip
+0063.387 (0) S3 regular upload: success
+0063.395 (0) Recording as successfully uploaded: backup_2018-10-22-1712_The_Victor_b215c660eef9-others.zip (ef3ef534d4759a5d7088fe10cf9162fe)
+0063.405 (0) Deleting local file: backup_2018-10-22-1712_The_Victor_b215c660eef9-others.zip: OK
+0063.407 (0) S3 upload (us-west-2): backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz (chunks: 1) -> s3://thevictor/backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz
+0063.887 (0) S3 regular upload: success
+0063.895 (0) Recording as successfully uploaded: backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz (65bbd0f21fdd3eb444d065f96713e111)
+0063.907 (0) Deleting local file: backup_2018-10-22-1712_The_Victor_b215c660eef9-db.gz: OK
+0063.914 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0063.916 (0) Number of backup sets in history: 3; groups (db): 1
+0063.919 (0) Examining (for databases) backup set with group_id=0, nonce=b215c660eef9, datestamp=1540242775 (Oct 22 2018 21:12:55)
+0063.922 (0) This backup set is the backup set just made, so will not be deleted.
+0063.922 (0) Examining (for databases) backup set with group_id=0, nonce=dffb1e0d6491, datestamp=1540155944 (Oct 21 2018 21:05:44)
+0063.922 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0063.923 (0) Examining (for databases) backup set with group_id=0, nonce=971f3eb764ca, datestamp=1540069652 (Oct 20 2018 21:07:32)
+0063.923 (0) 1540069652: db: this set includes a database (backup_2018-10-20-1707_The_Victor_971f3eb764ca-db.gz); db count is now 2
+0063.923 (0) 1540069652: db: over retain limit (2); will delete this database
+0063.923 (0) Delete file: backup_2018-10-20-1707_The_Victor_971f3eb764ca-db.gz, service=s3
+0063.926 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-10-20-1707_The_Victor_971f3eb764ca-db.gz
+0064.032 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0064.035 (0) Number of backup sets in history: 3; groups (files): 1
+0064.038 (0) Examining (for files) backup set with nonce=b215c660eef9, datestamp=1540242775 (Oct 22 2018 21:12:55)
+0064.038 (0) This backup set is the backup set just made, so will not be deleted.
+0064.042 (0) This backup set is the backup set just made, so will not be deleted.
+0064.042 (0) This backup set is the backup set just made, so will not be deleted.
+0064.042 (0) This backup set is the backup set just made, so will not be deleted.
+0064.043 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.045 (0) Examining (for files) backup set with nonce=dffb1e0d6491, datestamp=1540155944 (Oct 21 2018 21:05:44)
+0064.045 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0064.045 (0) Examining (for files) backup set with nonce=971f3eb764ca, datestamp=1540069652 (Oct 20 2018 21:07:32)
+0064.045 (0) plugins: over retain limit (2); will delete this file entity
+0064.045 (0) themes: over retain limit (2); will delete this file entity
+0064.045 (0) uploads: over retain limit (2); will delete this file entity
+0064.045 (0) others: over retain limit (2); will delete this file entity
+0064.046 (0) Delete file: backup_2018-10-20-1707_The_Victor_971f3eb764ca-plugins.zip, service=s3
+0064.047 (0) Delete file: backup_2018-10-20-1707_The_Victor_971f3eb764ca-themes.zip, service=s3
+0064.050 (0) Delete file: backup_2018-10-20-1707_The_Victor_971f3eb764ca-uploads.zip, service=s3
+0064.053 (0) Delete file: backup_2018-10-20-1707_The_Victor_971f3eb764ca-others.zip, service=s3
+0064.054 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-10-20-1707_The_Victor_971f3eb764ca-plugins.zip
+0064.175 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-10-20-1707_The_Victor_971f3eb764ca-themes.zip
+0064.279 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-10-20-1707_The_Victor_971f3eb764ca-uploads.zip
+0064.411 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-10-20-1707_The_Victor_971f3eb764ca-others.zip
+0064.517 (0) This backup set is now empty; will remove from history
+0064.520 (0) Deleting log file (log.971f3eb764ca.txt)
+0064.523 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0064.536 (0) Resume backup (b215c660eef9, 0): finish run
+0064.545 (0) Decremented the semaphore (fd) by 1
+0064.549 (0) Semaphore (fd) unlocked
+0064.552 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0064.563 (0) No email will/can be sent - the user has not configured an email address.
+0064.566 (0) The backup apparently succeeded and is now complete

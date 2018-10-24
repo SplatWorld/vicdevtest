@@ -1,0 +1,895 @@
+0000.054 (0) Opened log file at time: Sat, 31 Mar 2018 21:05:00 +0000 on https://thevictorlofts.com
+0000.058 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.14.3 WP: 4.9.4 PHP: 5.6.31-4+wpengine10 (apache2handler, Linux pod-100319 3.13.0-143-generic #192-Ubuntu SMP Tue Feb 27 10:45:36 UTC 2018 x86_64) MySQL: 5.6.39 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 54.7M | 55.3M) multisite: N openssl: OpenSSL 1.0.1f 6 Jan 2014 mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.061 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.064 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.067 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.173 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1522443829, seconds_ago=86471)
+0000.180 (0) Set semaphore last lock (fd) time to 2018-03-31 21:05:00
+0000.183 (0) Semaphore lock (fd) complete
+0000.191 (0) Backup run: resumption=0, nonce=412f0b39405f, begun at=1522530300 (0s ago), job type=backup
+0000.195 (0) Scheduling a resumption (1) after 300 seconds (1522530600) in case this run gets aborted
+0000.237 (0) Checking if we have a zip executable available
+0000.243 (0) Creation of backups of directories: beginning
+0000.251 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.183 (0) Total entities for the zip file: 843 directories, 5712 files (0 skipped as non-modified), 78.9 MB
+0001.206 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.214 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.222 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.238 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.248 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.251 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.3 MB, 5712 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.075 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 600 files added (on-disk size: 1722.4 KB)
+0003.083 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 700 files added (on-disk size: 1722.4 KB)
+0003.092 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 800 files added (on-disk size: 1722.4 KB)
+0003.101 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 900 files added (on-disk size: 1722.4 KB)
+0003.110 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1000 files added (on-disk size: 1722.4 KB)
+0003.114 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.8 MB, 5712 files batched, 501 (1002) added so far); re-opening (prior size: 1722.4 KB)
+0004.664 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1100 files added (on-disk size: 3878.1 KB)
+0004.672 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1200 files added (on-disk size: 3878.1 KB)
+0004.681 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1300 files added (on-disk size: 3878.1 KB)
+0004.691 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1400 files added (on-disk size: 3878.1 KB)
+0004.707 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1500 files added (on-disk size: 3878.1 KB)
+0004.712 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.8 MB, 5712 files batched, 501 (1503) added so far); re-opening (prior size: 3878.1 KB)
+0006.017 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1600 files added (on-disk size: 5428.9 KB)
+0006.026 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1700 files added (on-disk size: 5428.9 KB)
+0006.039 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1800 files added (on-disk size: 5428.9 KB)
+0006.053 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 1900 files added (on-disk size: 5428.9 KB)
+0006.067 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2000 files added (on-disk size: 5428.9 KB)
+0006.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.1 MB, 5712 files batched, 501 (2004) added so far); re-opening (prior size: 5428.9 KB)
+0010.204 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2100 files added (on-disk size: 12585.1 KB)
+0010.213 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2200 files added (on-disk size: 12585.1 KB)
+0010.222 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2300 files added (on-disk size: 12585.1 KB)
+0010.231 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2400 files added (on-disk size: 12585.1 KB)
+0010.241 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2500 files added (on-disk size: 12585.1 KB)
+0010.245 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 MB, 5712 files batched, 501 (2505) added so far); re-opening (prior size: 12585.1 KB)
+0011.479 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2600 files added (on-disk size: 14021.9 KB)
+0011.488 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2700 files added (on-disk size: 14021.9 KB)
+0011.497 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2800 files added (on-disk size: 14021.9 KB)
+0011.506 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 2900 files added (on-disk size: 14021.9 KB)
+0011.515 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3000 files added (on-disk size: 14021.9 KB)
+0011.519 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.1 MB, 5712 files batched, 501 (3006) added so far); re-opening (prior size: 14021.9 KB)
+0013.113 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3100 files added (on-disk size: 15365.7 KB)
+0013.124 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3200 files added (on-disk size: 15365.7 KB)
+0013.136 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3300 files added (on-disk size: 15365.7 KB)
+0013.145 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3400 files added (on-disk size: 15365.7 KB)
+0013.153 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3500 files added (on-disk size: 15365.7 KB)
+0013.157 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.2 MB, 5712 files batched, 501 (3507) added so far); re-opening (prior size: 15365.7 KB)
+0014.531 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3600 files added (on-disk size: 17827.8 KB)
+0014.540 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3700 files added (on-disk size: 17827.8 KB)
+0014.549 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3800 files added (on-disk size: 17827.8 KB)
+0014.558 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 3900 files added (on-disk size: 17827.8 KB)
+0014.566 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4000 files added (on-disk size: 17827.8 KB)
+0014.570 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.3 MB, 5712 files batched, 501 (4008) added so far); re-opening (prior size: 17827.8 KB)
+0016.012 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4100 files added (on-disk size: 19458.7 KB)
+0016.023 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4200 files added (on-disk size: 19458.7 KB)
+0016.032 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4300 files added (on-disk size: 19458.7 KB)
+0016.044 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4400 files added (on-disk size: 19458.7 KB)
+0016.055 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4500 files added (on-disk size: 19458.7 KB)
+0016.060 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 MB, 5712 files batched, 501 (4509) added so far); re-opening (prior size: 19458.7 KB)
+0017.736 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4600 files added (on-disk size: 21742.3 KB)
+0017.753 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4700 files added (on-disk size: 21742.3 KB)
+0017.763 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4800 files added (on-disk size: 21742.3 KB)
+0017.776 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 4900 files added (on-disk size: 21742.3 KB)
+0017.787 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5000 files added (on-disk size: 21742.3 KB)
+0017.791 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 MB, 5712 files batched, 501 (5010) added so far); re-opening (prior size: 21742.3 KB)
+0018.627 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5100 files added (on-disk size: 22472.8 KB)
+0018.638 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5200 files added (on-disk size: 22472.8 KB)
+0018.649 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5300 files added (on-disk size: 22472.8 KB)
+0018.660 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5400 files added (on-disk size: 22472.8 KB)
+0018.669 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5500 files added (on-disk size: 22472.8 KB)
+0018.674 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.9 MB, 5712 files batched, 501 (5511) added so far); re-opening (prior size: 22472.8 KB)
+0019.741 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5600 files added (on-disk size: 24025.5 KB)
+0019.749 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip.tmp: 5700 files added (on-disk size: 24025.5 KB)
+0021.976 (0) Created plugins zip (0) - 27938.9 KB in 21.7 s (1286.1 KB/s) (sha1: 791a888ebf5e263c9a743734c04a5db028ffbc3d, sha256: 0e0fc4aa3ff1a05dc5a3eedfdfaf1c80e588028aaeb2867a54e28c782a4597ae)
+0021.984 (0) Beginning creation of dump of themes (split every: 400 MB)
+0022.058 (0) Total entities for the zip file: 49 directories, 488 files (0 skipped as non-modified), 19.3 MB
+0022.066 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0022.074 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0022.082 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0022.090 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0025.925 (0) Created themes zip (0) - 14026.8 KB in 3.9 s (3561.2 KB/s) (sha1: d15a5ff33608b2ac90a0853564c8b7532bc39658, sha256: b590f85ae0bdd3d8da3f8476ddc336a7ee4d2ce48f7df71e2bf4bef064131341)
+0025.932 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0025.935 (0) Looking for candidates to back up in: /nas/content/live/thevictor/wp-content/uploads
+0025.957 (0) finding files: the_victort-footer-gallery.jpg: adding to list (1)
+0025.960 (0) finding files: fbrfg: adding to list (2)
+0025.962 (0) finding files: the_victort-footer-gallery-150x55.jpg: adding to list (3)
+0025.964 (0) finding files: model1-6.jpg: adding to list (4)
+0025.967 (0) finding files: 2bed_2bath_two-levels.pdf: adding to list (5)
+0025.968 (0) finding files: neighborhood-5-1024x406.jpg: adding to list (6)
+0025.970 (0) finding files: roofdeck_the_victor-300x300.jpg: adding to list (7)
+0025.972 (0) finding files: concierge-the_victor-150x150.jpg: adding to list (8)
+0025.974 (0) finding files: camden-concert-pavilion-150x59.jpg: adding to list (9)
+0025.976 (0) finding files: the_victor_retail-bbt.jpg: adding to list (10)
+0025.979 (0) finding files: the_victor-sky_deck.jpg: adding to list (11)
+0025.980 (0) finding files: living_room_model_the_victor-300x300.jpg: adding to list (12)
+0025.982 (0) finding files: the_victor-neighborhood-3-300x119.jpg: adding to list (13)
+0025.984 (0) finding files: market-300x300.jpg: adding to list (14)
+0025.987 (0) finding files: neighborhood-downtown-day.jpg: adding to list (15)
+0025.988 (0) finding files: Hyde-Hotel-upcoming-gallery.jpg: adding to list (16)
+0025.991 (0) finding files: the-Victor-300x300.jpg: adding to list (17)
+0025.992 (0) finding files: parking-300x300.jpg: adding to list (18)
+0025.994 (0) finding files: 1bed_1bath_260-660.svg: adding to list (19)
+0025.996 (0) finding files: the_victor-neighborhood-12-300x119.jpg: adding to list (20)
+0025.998 (0) finding files: camden-neighborhood-300x300.jpg: adding to list (21)
+0026.000 (0) finding files: the_victor_floorplans_living-300x224.jpg: adding to list (22)
+0026.003 (0) finding files: royal-theater-gallery-102x150.jpg: adding to list (23)
+0026.004 (0) finding files: the_victor-neighborhood-10-300x119.jpg: adding to list (24)
+0026.007 (0) finding files: 1bed_1bath_260-660.pdf: adding to list (25)
+0026.008 (0) finding files: the_victor-unit_3-1024x406.jpg: adding to list (26)
+0026.010 (0) finding files: neighborhood-3-300x119.jpg: adding to list (27)
+0026.012 (0) finding files: neighborhood-downtown-day-150x60.jpg: adding to list (28)
+0026.015 (0) finding files: courtyard-2.svg: adding to list (29)
+0026.016 (0) finding files: the_victor_neighborhood-marina-300x300.jpg: adding to list (30)
+0026.019 (0) finding files: neighborhood-7-300x119.jpg: adding to list (31)
+0026.020 (0) finding files: 2bed_2bath_209-509.svg: adding to list (32)
+0026.022 (0) finding files: pizza.jpg: adding to list (33)
+0026.024 (0) finding files: the_victor-neighborhood-5-300x119.jpg: adding to list (34)
+0026.026 (0) finding files: thevictor-rooftop-view-2-1024x406.jpg: adding to list (35)
+0026.028 (0) finding files: the_victor-neighborhood-6-150x60.jpg: adding to list (36)
+0026.031 (0) finding files: PhillyStyle-150x35.png: adding to list (37)
+0026.032 (0) finding files: parking.jpg: adding to list (38)
+0026.035 (0) finding files: middle-slider-camden-aquarium-440px-300x172.jpg: adding to list (39)
+0026.036 (0) finding files: vertical-footer-thevictor_courtyard.jpg: adding to list (40)
+0026.039 (0) finding files: the_victor_retail-market-150x150.jpg: adding to list (41)
+0026.040 (0) finding files: middle-slider-concert_pavilion-1024x400.jpg: adding to list (42)
+0026.043 (0) finding files: thevictor-vertical-544x1024.jpg: adding to list (43)
+0026.044 (0) finding files: fresh-mex-150x150.jpg: adding to list (44)
+0026.046 (0) finding files: fresh-mex.jpg: adding to list (45)
+0026.048 (0) finding files: the_victor-video_tour-150x150.jpg: adding to list (46)
+0026.050 (0) finding files: the_victor-neighborhood-4-150x60.jpg: adding to list (47)
+0026.052 (0) finding files: 2Liberty.jpg: adding to list (48)
+0026.055 (0) finding files: diningroom-the_victor.jpg: adding to list (49)
+0026.056 (0) finding files: thevictor_rooftop_view-300x300.jpg: adding to list (50)
+0026.059 (0) finding files: maps-backup: adding to list (51)
+0026.059 (0) finding files: model1-6-300x119.jpg: adding to list (52)
+0026.059 (0) finding files: the_victor_floorplans_living_2-300x224.jpg: adding to list (53)
+0026.059 (0) finding files: the_victor-neighborhood-3.jpg: adding to list (54)
+0026.059 (0) finding files: middle-slider-camden_concert_pavilion-440px-300x172.jpg: adding to list (55)
+0026.059 (0) finding files: 2bed_den_2bath.pdf: adding to list (56)
+0026.059 (0) finding files: logo_for_favicon-150x143.png: adding to list (57)
+0026.059 (0) finding files: 2bed_den_2bath.svg: adding to list (58)
+0026.059 (0) finding files: the_victor_unit_slider-440.jpg: adding to list (59)
+0026.059 (0) finding files: the_victor-neighborhood-12.jpg: adding to list (60)
+0026.059 (0) finding files: the_victor-neighborhood-2-1024x406.jpg: adding to list (61)
+0026.059 (0) finding files: 777-south-broad-150x150.jpg: adding to list (62)
+0026.059 (0) finding files: the_victor-3-150x60.jpg: adding to list (63)
+0026.059 (0) finding files: the_victor-neighborhood-9-1024x406.jpg: adding to list (64)
+0026.059 (0) finding files: the_victor_retail-edible_arrangements-300x300.jpg: adding to list (65)
+0026.059 (0) finding files: pet-friendly.jpg: adding to list (66)
+0026.059 (0) finding files: skyline-thevictor-view-150x150.jpg: adding to list (67)
+0026.059 (0) finding files: 1bedroom_patio.pdf: adding to list (68)
+0026.059 (0) finding files: lobby-thevictor-300x300.jpg: adding to list (69)
+0026.060 (0) finding files: bedroom-the_victor-150x150.jpg: adding to list (70)
+0026.060 (0) finding files: concierge.svg: adding to list (71)
+0026.060 (0) finding files: the_victor_view_slider-440-300x172.jpg: adding to list (72)
+0026.060 (0) finding files: the_victor-1a.jpg: adding to list (73)
+0026.060 (0) finding files: cbs-philly-150x29.png: adding to list (74)
+0026.060 (0) finding files: retail-the_victor-300x300.jpg: adding to list (75)
+0026.060 (0) finding files: footer-retail-coffee.jpg: adding to list (76)
+0026.060 (0) finding files: camden-cooper-150x150.jpg: adding to list (77)
+0026.060 (0) finding files: footer-retail-coffee-150x150.jpg: adding to list (78)
+0026.060 (0) finding files: the_victor_neighborhood-camden-marina.jpg: adding to list (79)
+0026.060 (0) finding files: One-Riverside-300x300.jpg: adding to list (80)
+0026.060 (0) finding files: royal-theater-gallery-204x300.jpg: adding to list (81)
+0026.060 (0) finding files: market-150x150.jpg: adding to list (82)
+0026.060 (0) finding files: bedroom-the_victor-300x300.jpg: adding to list (83)
+0026.060 (0) finding files: neighborhood-1.jpg: adding to list (84)
+0026.060 (0) finding files: One-Riverside-150x150.jpg: adding to list (85)
+0026.060 (0) finding files: multifamily-executive-logo.png: adding to list (86)
+0026.060 (0) finding files: the_victor-neighborhood-6-1024x406.jpg: adding to list (87)
+0026.060 (0) finding files: thevictor-vertical.jpg: adding to list (88)
+0026.060 (0) finding files: One-Ardmore-Place-upcoming-gallery-627x922_c-102x150.jpg: adding to list (89)
+0026.060 (0) finding files: thevictor_rooftop_view-150x150.jpg: adding to list (90)
+0026.060 (0) finding files: roofdeck_the_victor-150x150.jpg: adding to list (91)
+0026.060 (0) finding files: the_victor-neighborhood-8.jpg: adding to list (92)
+0026.060 (0) finding files: the_victor_view_slider-440.jpg: adding to list (93)
+0026.060 (0) finding files: view-bridge-1024x406.jpg: adding to list (94)
+0026.060 (0) finding files: southstar_map_icon.png: adding to list (95)
+0026.060 (0) finding files: the_victor_retail-edible_arrangements-150x150.jpg: adding to list (96)
+0026.060 (0) finding files: vertical-footer-thevictor_view-102x150.jpg: adding to list (97)
+0026.060 (0) finding files: model1-1-1024x406.jpg: adding to list (98)
+0026.060 (0) finding files: the_victor-neighborhood-2.jpg: adding to list (99)
+0026.060 (0) finding files: the_victor_unit_front_slider-2-440-300x172.jpg: adding to list (100)
+0026.063 (0) finding files: the_victor_neighborhood-aquarium-children-300x300.jpg: adding to list (101)
+0026.063 (0) finding files: the_victor_view_slider-300x119.jpg: adding to list (102)
+0026.063 (0) finding files: footer-retail-restaurant.jpg: adding to list (103)
+0026.063 (0) finding files: vertical-footer-thevictor_entrance-204x300.jpg: adding to list (104)
+0026.063 (0) finding files: footer-retail-restaurant-150x150.jpg: adding to list (105)
+0026.063 (0) finding files: thevictor-rooftop-view-150x60.jpg: adding to list (106)
+0026.063 (0) finding files: lifestyle-access-card-150x150.jpg: adding to list (107)
+0026.063 (0) finding files: middle-slider-camden-aquarium-440px-150x86.jpg: adding to list (108)
+0026.063 (0) finding files: view-downtown-zoom.jpg: adding to list (109)
+0026.063 (0) finding files: second-slider-aquarium.jpg: adding to list (110)
+0026.063 (0) finding files: the_victor-neighborhood-8-300x119.jpg: adding to list (111)
+0026.063 (0) finding files: middle-slider-aquarium-440px.jpg: adding to list (112)
+0026.063 (0) finding files: neighborhood-7-150x60.jpg: adding to list (113)
+0026.063 (0) finding files: the_victor-neighborhood-7-300x119.jpg: adding to list (114)
+0026.063 (0) finding files: neighborhood-library-300x300.jpg: adding to list (115)
+0026.063 (0) finding files: middle-slider-camden_concert_pavilion-440px-150x86.jpg: adding to list (116)
+0026.063 (0) finding files: view-downtown-zoom-1024x406.jpg: adding to list (117)
+0026.063 (0) finding files: 2016: adding to list (118)
+0026.063 (0) finding files: gym-the_victor.jpg: adding to list (119)
+0026.063 (0) finding files: neighborhood-2-300x119.jpg: adding to list (120)
+0026.063 (0) finding files: middle-slider-aquarium-440px-150x86.jpg: adding to list (121)
+0026.063 (0) finding files: concierge-the_victor.jpg: adding to list (122)
+0026.063 (0) finding files: locust_on_the_park-300x300.jpg: adding to list (123)
+0026.063 (0) finding files: the_victor-neighborhood-2-300x119.jpg: adding to list (124)
+0026.063 (0) finding files: the_victor_retail-pub-300x300.jpg: adding to list (125)
+0026.063 (0) finding files: the_victor-unit_1-150x60.jpg: adding to list (126)
+0026.063 (0) finding files: neighborhood-downtown-day-1024x406.jpg: adding to list (127)
+0026.063 (0) finding files: retail-the_victor.jpg: adding to list (128)
+0026.063 (0) finding files: the_victor_floorplans_living_2-150x112.jpg: adding to list (129)
+0026.063 (0) finding files: neighborhood-2-150x60.jpg: adding to list (130)
+0026.063 (0) finding files: middle-slider-aquarium.jpg: adding to list (131)
+0026.063 (0) finding files: market.jpg: adding to list (132)
+0026.063 (0) finding files: model2-2-150x60.jpg: adding to list (133)
+0026.064 (0) finding files: The_Philadelphia_Inquirer_logo-150x16.png: adding to list (134)
+0026.064 (0) finding files: neighborhood-6-1024x406.jpg: adding to list (135)
+0026.064 (0) finding files: middle-slider-concert_pavilion-300x117.jpg: adding to list (136)
+0026.064 (0) finding files: the_victor-unit_1-300x119.jpg: adding to list (137)
+0026.064 (0) finding files: model2-4-1024x406.jpg: adding to list (138)
+0026.064 (0) finding files: the_victor_unit_slider-1024x406.jpg: adding to list (139)
+0026.064 (0) finding files: model2-4-300x119.jpg: adding to list (140)
+0026.064 (0) finding files: vertical-footer-thevictor-204x300.jpg: adding to list (141)
+0026.064 (0) finding files: camden-cooper.jpg: adding to list (142)
+0026.064 (0) finding files: neighborhood-6-300x119.jpg: adding to list (143)
+0026.064 (0) finding files: One-Riverside-night-150x95.jpg: adding to list (144)
+0026.064 (0) finding files: vertical-footer-thevictor_courtyard-204x300.jpg: adding to list (145)
+0026.064 (0) finding files: The_Philadelphia_Inquirer_logo.png: adding to list (146)
+0026.064 (0) finding files: camden-aquarium-150x150.jpg: adding to list (147)
+0026.064 (0) finding files: model1-3.jpg: adding to list (148)
+0026.064 (0) finding files: One-Riverside-night-300x191.jpg: adding to list (149)
+0026.064 (0) finding files: The_Philadelphia_Inquirer_logo-300x32.png: adding to list (150)
+0026.064 (0) finding files: middle-slider-cooper-300x117.jpg: adding to list (151)
+0026.064 (0) finding files: the_victor_neighborhood-camden-marina-300x300.jpg: adding to list (152)
+0026.064 (0) finding files: the_victor_retail-market.jpg: adding to list (153)
+0026.064 (0) finding files: the_victor-neighborhood-4.jpg: adding to list (154)
+0026.064 (0) finding files: theater-square-upcoming-gallery-102x150.jpg: adding to list (155)
+0026.064 (0) finding files: middle-slider-aquarium-440px-300x172.jpg: adding to list (156)
+0026.064 (0) finding files: lobby-thevictor-150x150.jpg: adding to list (157)
+0026.064 (0) finding files: roofdeck_the_victor.jpg: adding to list (158)
+0026.064 (0) finding files: grass-150x150.jpg: adding to list (159)
+0026.064 (0) finding files: the_victor-5.jpg: adding to list (160)
+0026.064 (0) finding files: model1-1-300x119.jpg: adding to list (161)
+0026.064 (0) finding files: the_victor-sky_deck-300x300.jpg: adding to list (162)
+0026.064 (0) finding files: second-slider-aquarium-300x117.jpg: adding to list (163)
+0026.064 (0) finding files: the_victor_retail-market-300x300.jpg: adding to list (164)
+0026.064 (0) finding files: 2Liberty-300x300.jpg: adding to list (165)
+0026.064 (0) finding files: vertical-footer-thevictor-102x150.jpg: adding to list (166)
+0026.064 (0) finding files: the_victor-neighborhood-9-150x60.jpg: adding to list (167)
+0026.064 (0) finding files: thevictor_rooftop_view.jpg: adding to list (168)
+0026.064 (0) finding files: the_victor-neighborhood-9-300x119.jpg: adding to list (169)
+0026.064 (0) finding files: the_victor_slider-440-300x172.jpg: adding to list (170)
+0026.064 (0) finding files: the_victor-4-150x60.jpg: adding to list (171)
+0026.064 (0) finding files: middle-slider-concert_pavilion-440px-300x172.jpg: adding to list (172)
+0026.064 (0) finding files: middle-slider-concert_pavilion-150x59.jpg: adding to list (173)
+0026.064 (0) finding files: the_victor_neighborhood-marina-150x150.jpg: adding to list (174)
+0026.064 (0) finding files: the_victor-sky_deck-150x150.jpg: adding to list (175)
+0026.064 (0) finding files: middle-slider-concert_pavilion-440px.jpg: adding to list (176)
+0026.064 (0) finding files: the_victor_unit_front_slider-2-440-150x86.jpg: adding to list (177)
+0026.065 (0) finding files: camden-concert-pavilion.jpg: adding to list (178)
+0026.065 (0) finding files: multifamily-executive-logo-150x111.png: adding to list (179)
+0026.065 (0) finding files: neighborhood-4-150x60.jpg: adding to list (180)
+0026.065 (0) finding files: the_victor-neighborhood-12-150x60.jpg: adding to list (181)
+0026.065 (0) finding files: 1bed_platform_1bath_341-641.pdf: adding to list (182)
+0026.065 (0) finding files: thevictor-rooftop-view-2-300x119.jpg: adding to list (183)
+0026.065 (0) finding files: model2-3.jpg: adding to list (184)
+0026.065 (0) finding files: middle-slider-cooper-440px.jpg: adding to list (185)
+0026.065 (0) finding files: the_victor_unit_slider-300x119.jpg: adding to list (186)
+0026.065 (0) finding files: neighborhood-5-300x119.jpg: adding to list (187)
+0026.065 (0) finding files: the_victor_retail-pizza.jpg: adding to list (188)
+0026.065 (0) finding files: parking.svg: adding to list (189)
+0026.065 (0) finding files: 2bed_2bath_236-636.svg: adding to list (190)
+0026.065 (0) finding files: Hyde-Hotel-upcoming-gallery-204x300.jpg: adding to list (191)
+0026.065 (0) finding files: the_victor-6-300x119.jpg: adding to list (192)
+0026.065 (0) finding files: the_victor-neighborhood-5-150x60.jpg: adding to list (193)
+0026.065 (0) finding files: pet-friendly-150x150.jpg: adding to list (194)
+0026.065 (0) finding files: neighborhood-5.jpg: adding to list (195)
+0026.065 (0) finding files: vertical-footer-pet-friendly-102x150.jpg: adding to list (196)
+0026.065 (0) finding files: neighborhood-2.jpg: adding to list (197)
+0026.065 (0) finding files: studio_1bath.svg: adding to list (198)
+0026.065 (0) finding files: royal-theater-gallery.jpg: adding to list (199)
+0026.065 (0) finding files: pet-friendly-300x300.jpg: adding to list (200)
+0026.068 (0) finding files: middle-slider-cooper-440px-150x86.jpg: adding to list (201)
+0026.068 (0) finding files: camden-cooper-300x300.jpg: adding to list (202)
+0026.068 (0) finding files: vertical-footer-neighborhood-thevictor-204x300.jpg: adding to list (203)
+0026.068 (0) finding files: the_victor-lobby-300x300.jpg: adding to list (204)
+0026.068 (0) finding files: bike-share-150x150.jpg: adding to list (205)
+0026.068 (0) finding files: the_victor_floorplans_living-top-2-300x224.jpg: adding to list (206)
+0026.068 (0) finding files: the_victor-video_tour-300x300.jpg: adding to list (207)
+0026.068 (0) finding files: model2-3-150x60.jpg: adding to list (208)
+0026.068 (0) finding files: neighborhood-6-150x60.jpg: adding to list (209)
+0026.068 (0) finding files: bedroom_model_victor-300x300.jpg: adding to list (210)
+0026.068 (0) finding files: the_victor-neighborhood-7.jpg: adding to list (211)
+0026.068 (0) finding files: model2-3-1024x406.jpg: adding to list (212)
+0026.068 (0) finding files: the_victor_view_slider-440-150x86.jpg: adding to list (213)
+0026.068 (0) finding files: the_victor-unit_2-300x119.jpg: adding to list (214)
+0026.068 (0) finding files: clubroom-the_victor.jpg: adding to list (215)
+0026.068 (0) finding files: pure_mind-the_victor-150x150.jpg: adding to list (216)
+0026.068 (0) finding files: the_victor-5-1024x406.jpg: adding to list (217)
+0026.068 (0) finding files: model1-3-1024x406.jpg: adding to list (218)
+0026.068 (0) finding files: neighborhood-3.jpg: adding to list (219)
+0026.068 (0) finding files: the_victor_view_slider.jpg: adding to list (220)
+0026.068 (0) finding files: neighborhood-4-1024x406.jpg: adding to list (221)
+0026.068 (0) finding files: neighborhood-library-150x150.jpg: adding to list (222)
+0026.068 (0) finding files: the_victor-neighborhood-4-300x119.jpg: adding to list (223)
+0026.068 (0) finding files: the_victor_floorplans_living-bottom-2-300x224.jpg: adding to list (224)
+0026.068 (0) finding files: camden-neighborhood.jpg: adding to list (225)
+0026.068 (0) finding files: 777-south-broad-300x300.jpg: adding to list (226)
+0026.068 (0) finding files: the_victor-1-150x60.jpg: adding to list (227)
+0026.068 (0) finding files: neighborhood-7.jpg: adding to list (228)
+0026.068 (0) finding files: the_victor_floorplans_living.jpg: adding to list (229)
+0026.068 (0) finding files: logo_for_favicon.png: adding to list (230)
+0026.069 (0) finding files: the_victor_unit_front_slider-2-440.jpg: adding to list (231)
+0026.069 (0) finding files: camden-marina.jpg: adding to list (232)
+0026.069 (0) finding files: storage-300x300.jpg: adding to list (233)
+0026.069 (0) finding files: restaurant.svg: adding to list (234)
+0026.069 (0) finding files: model1-1-150x60.jpg: adding to list (235)
+0026.069 (0) finding files: One_Riverside-150x150.jpg: adding to list (236)
+0026.069 (0) finding files: the_victor_floorplans_living-top-2-150x112.jpg: adding to list (237)
+0026.069 (0) finding files: the_victor_retail-pizza-300x300.jpg: adding to list (238)
+0026.069 (0) finding files: the_victor-neighborhood-6-300x119.jpg: adding to list (239)
+0026.069 (0) finding files: theater-square-upcoming-gallery-204x300.jpg: adding to list (240)
+0026.069 (0) finding files: the_victor-2-150x60.jpg: adding to list (241)
+0026.069 (0) finding files: dining_model_victor-300x300.jpg: adding to list (242)
+0026.069 (0) finding files: the_victor-neighborhood-7-1024x406.jpg: adding to list (243)
+0026.069 (0) finding files: the_victor_floorplans_living_2.jpg: adding to list (244)
+0026.069 (0) finding files: vertical-footer-neighborhood-thevictor-bridge-102x150.jpg: adding to list (245)
+0026.069 (0) finding files: view-bridge-150x60.jpg: adding to list (246)
+0026.069 (0) finding files: the_victor-unit_2-150x60.jpg: adding to list (247)
+0026.069 (0) finding files: 2015: adding to list (248)
+0026.069 (0) finding files: the_victor_retail-pub-150x150.jpg: adding to list (249)
+0026.069 (0) finding files: One-Riverside.jpg: adding to list (250)
+0026.069 (0) finding files: model1-1.jpg: adding to list (251)
+0026.069 (0) finding files: living_room_model_the_victor-150x150.jpg: adding to list (252)
+0026.069 (0) finding files: the_victor_slider.jpg: adding to list (253)
+0026.069 (0) finding files: neighborhood-4.jpg: adding to list (254)
+0026.069 (0) finding files: footer-retail-shopping-150x150.jpg: adding to list (255)
+0026.069 (0) finding files: clubroom.svg: adding to list (256)
+0026.069 (0) finding files: bridge-thevictor-view-300x300.jpg: adding to list (257)
+0026.069 (0) finding files: The-New-York-Times-150x22.png: adding to list (258)
+0026.069 (0) finding files: sls-itl-upcoming-gallery-627x922_c.jpg: adding to list (259)
+0026.069 (0) finding files: 2bed_2bath_248-648.pdf: adding to list (260)
+0026.069 (0) finding files: the_victor-neighborhood-4-1024x406.jpg: adding to list (261)
+0026.069 (0) finding files: vertical-footer-neighborhood-thevictor-102x150.jpg: adding to list (262)
+0026.069 (0) finding files: clubroom-2-the_victor-300x300.jpg: adding to list (263)
+0026.069 (0) finding files: model2-4-150x60.jpg: adding to list (264)
+0026.069 (0) finding files: the_victor-3.jpg: adding to list (265)
+0026.069 (0) finding files: footer-retail-restaurant-300x300.jpg: adding to list (266)
+0026.069 (0) finding files: middle-slider-cooper.jpg: adding to list (267)
+0026.069 (0) finding files: middle-slider-concert_pavilion-440px-150x86.jpg: adding to list (268)
+0026.069 (0) finding files: footer-retail-shopping-300x300.jpg: adding to list (269)
+0026.069 (0) finding files: the_victor_floorplans_living-bottom-2.jpg: adding to list (270)
+0026.069 (0) finding files: 3bed_2bath_269-569.svg: adding to list (271)
+0026.069 (0) finding files: living_room_model_the_victor.jpg: adding to list (272)
+0026.069 (0) finding files: cbs-philly.png: adding to list (273)
+0026.069 (0) finding files: bike-share.jpg: adding to list (274)
+0026.070 (0) finding files: model2-3-300x119.jpg: adding to list (275)
+0026.070 (0) finding files: left-bank.jpg: adding to list (276)
+0026.070 (0) finding files: 3bed_2bath_269-569.pdf: adding to list (277)
+0026.070 (0) finding files: 1bed-patio.svg: adding to list (278)
+0026.070 (0) finding files: the_victor-lobby-150x150.jpg: adding to list (279)
+0026.070 (0) finding files: pizza-300x300.jpg: adding to list (280)
+0026.070 (0) finding files: model2-2-300x119.jpg: adding to list (281)
+0026.070 (0) finding files: the_victor-6-150x60.jpg: adding to list (282)
+0026.070 (0) finding files: neighborhood-library.jpg: adding to list (283)
+0026.070 (0) finding files: locust_on_the_park-150x150.jpg: adding to list (284)
+0026.070 (0) finding files: the_victor-unit-front-slider-2-1024x406.jpg: adding to list (285)
+0026.070 (0) finding files: vertical-footer-neighborhood-thevictor-bridge-204x300.jpg: adding to list (286)
+0026.070 (0) finding files: the_victor_neighborhood-marina.jpg: adding to list (287)
+0026.070 (0) finding files: lifestyle-access-card.jpg: adding to list (288)
+0026.070 (0) finding files: thevictor-vertical-159x300.jpg: adding to list (289)
+0026.070 (0) finding files: the_victor-video_tour.jpg: adding to list (290)
+0026.070 (0) finding files: sucuri: adding to list (291)
+0026.070 (0) finding files: thevictor-rooftop-view.jpg: adding to list (292)
+0026.070 (0) finding files: bike-share-300x300.jpg: adding to list (293)
+0026.070 (0) finding files: twentythirteen: adding to list (294)
+0026.070 (0) finding files: theater-square-upcoming-gallery.jpg: adding to list (295)
+0026.070 (0) finding files: the_victor_slider-440.jpg: adding to list (296)
+0026.070 (0) finding files: One_Riverside-300x300.jpg: adding to list (297)
+0026.070 (0) finding files: the_victor-5-300x119.jpg: adding to list (298)
+0026.070 (0) finding files: the_victor-neighborhood-6.jpg: adding to list (299)
+0026.070 (0) finding files: neighborhood-2-1024x406.jpg: adding to list (300)
+0026.073 (0) finding files: very-apt-150x53.png: adding to list (301)
+0026.073 (0) finding files: card.svg: adding to list (302)
+0026.073 (0) finding files: One_Riverside.jpg: adding to list (303)
+0026.073 (0) finding files: the_victor-1.jpg: adding to list (304)
+0026.073 (0) finding files: middle-slider-aquarium-1024x400.jpg: adding to list (305)
+0026.073 (0) finding files: philadelphia-magazine-logo-150x38.png: adding to list (306)
+0026.073 (0) finding files: the_victor-neighborhood-1.jpg: adding to list (307)
+0026.073 (0) finding files: 2Liberty-150x150.jpg: adding to list (308)
+0026.073 (0) finding files: vertical-footer-thevictor_entrance-102x150.jpg: adding to list (309)
+0026.073 (0) finding files: south-star-150x150.jpg: adding to list (310)
+0026.073 (0) finding files: south-star-300x300.jpg: adding to list (311)
+0026.073 (0) finding files: footer-retail-coffee-300x300.jpg: adding to list (312)
+0026.073 (0) finding files: 1bed_1bath_215-515.svg: adding to list (313)
+0026.073 (0) finding files: vertical-footer-floorplans-102x150.jpg: adding to list (314)
+0026.073 (0) finding files: neighborhood-4-300x119.jpg: adding to list (315)
+0026.073 (0) finding files: the_victor-neighborhood-5.jpg: adding to list (316)
+0026.073 (0) finding files: women-with-cellphone-contact-page-300x166.jpg: adding to list (317)
+0026.073 (0) finding files: the_victor_unit_slider-440-150x86.jpg: adding to list (318)
+0026.073 (0) finding files: 2bed_2bath_236-636.pdf: adding to list (319)
+0026.073 (0) finding files: philadelphia-magazine-logo-300x75.png: adding to list (320)
+0026.073 (0) finding files: vertical-footer-pet-friendly.jpg: adding to list (321)
+0026.073 (0) finding files: the_victor-1a-1024x406.jpg: adding to list (322)
+0026.073 (0) finding files: the_victor_slider-440-150x86.jpg: adding to list (323)
+0026.073 (0) finding files: the_victor_courtyard-300x300.jpg: adding to list (324)
+0026.073 (0) finding files: the_victor_floorplans_living-bottom-2-150x112.jpg: adding to list (325)
+0026.073 (0) finding files: the_victor-neighborhood-5-1024x406.jpg: adding to list (326)
+0026.073 (0) finding files: model1-6-150x60.jpg: adding to list (327)
+0026.073 (0) finding files: the_victor-2-300x119.jpg: adding to list (328)
+0026.073 (0) finding files: middle-slider-concert_pavilion.jpg: adding to list (329)
+0026.073 (0) finding files: lifestyle-access-card-300x300.jpg: adding to list (330)
+0026.073 (0) finding files: the_victor-unit_3-150x60.jpg: adding to list (331)
+0026.073 (0) finding files: camden-neighborhood-150x150.jpg: adding to list (332)
+0026.073 (0) finding files: thevictor-rooftop-view-1024x406.jpg: adding to list (333)
+0026.073 (0) finding files: vertical-footer-neighborhood-thevictor.jpg: adding to list (334)
+0026.073 (0) finding files: vertical-footer-floorplans-204x300.jpg: adding to list (335)
+0026.073 (0) finding files: vertical-footer-thevictor_view.jpg: adding to list (336)
+0026.073 (0) finding files: clubroom-2-the_victor.jpg: adding to list (337)
+0026.074 (0) finding files: the_victor_floorplans_living-150x112.jpg: adding to list (338)
+0026.074 (0) finding files: clubroom-2-the_victor-150x150.jpg: adding to list (339)
+0026.074 (0) finding files: neighborhood-5-150x60.jpg: adding to list (340)
+0026.074 (0) finding files: the_victor-4.jpg: adding to list (341)
+0026.074 (0) finding files: the_victor_retail-pub.jpg: adding to list (342)
+0026.074 (0) finding files: retail-the_victor-150x150.jpg: adding to list (343)
+0026.074 (0) finding files: PhillyStyle.png: adding to list (344)
+0026.074 (0) finding files: the_victor-2-1024x406.jpg: adding to list (345)
+0026.074 (0) finding files: concierge-the_victor-300x300.jpg: adding to list (346)
+0026.074 (0) finding files: the_victor-5-150x60.jpg: adding to list (347)
+0026.074 (0) finding files: footer-retail-shopping.jpg: adding to list (348)
+0026.074 (0) finding files: model2-2-1024x406.jpg: adding to list (349)
+0026.074 (0) finding files: thevictor-vertical-80x150.jpg: adding to list (350)
+0026.074 (0) finding files: the_victor-unit_3.jpg: adding to list (351)
+0026.074 (0) finding files: the_victor-neighborhood-10-1024x406.jpg: adding to list (352)
+0026.074 (0) finding files: the_victor-neighborhood-11-150x60.jpg: adding to list (353)
+0026.074 (0) finding files: bridge-thevictor-view-150x150.jpg: adding to list (354)
+0026.074 (0) finding files: the_victor_courtyard-150x150.jpg: adding to list (355)
+0026.074 (0) finding files: fresh-mex-300x300.jpg: adding to list (356)
+0026.074 (0) finding files: neighborhood-downtown-day-300x119.jpg: adding to list (357)
+0026.074 (0) finding files: thevictor-rooftop-view-300x119.jpg: adding to list (358)
+0026.074 (0) finding files: camden-concert-pavilion-300x117.jpg: adding to list (359)
+0026.074 (0) finding files: the_victor_slider-300x119.jpg: adding to list (360)
+0026.074 (0) finding files: PhiladelphiaBusinessJournal.png: adding to list (361)
+0026.074 (0) finding files: storage-150x150.jpg: adding to list (362)
+0026.074 (0) finding files: video.svg: adding to list (363)
+0026.074 (0) finding files: the_victor_slider-150x60.jpg: adding to list (364)
+0026.074 (0) finding files: the_victor_courtyard.jpg: adding to list (365)
+0026.074 (0) finding files: livingroom-2-the_victor.jpg: adding to list (366)
+0026.074 (0) finding files: the_victor-neighborhood-10-150x60.jpg: adding to list (367)
+0026.074 (0) finding files: model1-3-150x60.jpg: adding to list (368)
+0026.074 (0) finding files: the_victor-1-300x119.jpg: adding to list (369)
+0026.074 (0) finding files: sls-itl-upcoming-gallery-627x922_c-102x150.jpg: adding to list (370)
+0026.074 (0) finding files: neighborhood-1-300x119.jpg: adding to list (371)
+0026.074 (0) finding files: 777-south-broad.jpg: adding to list (372)
+0026.074 (0) finding files: 1bed_1bath_215-515.pdf: adding to list (373)
+0026.074 (0) finding files: the_victor-neighborhood-3-150x60.jpg: adding to list (374)
+0026.074 (0) finding files: the_victor_neighborhood-aquarium-children.jpg: adding to list (375)
+0026.074 (0) finding files: clubroom-the_victor-150x150.jpg: adding to list (376)
+0026.074 (0) finding files: PhiladelphiaBusinessJournal-300x72.png: adding to list (377)
+0026.074 (0) finding files: diningroom-the_victor-300x300.jpg: adding to list (378)
+0026.074 (0) finding files: pure_mind-the_victor.jpg: adding to list (379)
+0026.074 (0) finding files: the_victor-unit_4-150x60.jpg: adding to list (380)
+0026.074 (0) finding files: second-slider-aquarium-150x59.jpg: adding to list (381)
+0026.074 (0) finding files: the_victor-neighborhood-8-1024x406.jpg: adding to list (382)
+0026.075 (0) finding files: the_victor-unit_3-300x119.jpg: adding to list (383)
+0026.075 (0) finding files: the_victor-3-1024x406.jpg: adding to list (384)
+0026.075 (0) finding files: sls-itl-upcoming-gallery-627x922_c-204x300.jpg: adding to list (385)
+0026.075 (0) finding files: the_victor_unit_slider.jpg: adding to list (386)
+0026.075 (0) finding files: One-Ardmore-Place-upcoming-gallery-627x922_c-204x300.jpg: adding to list (387)
+0026.075 (0) finding files: middle-slider-camden_concert_pavilion-440px.jpg: adding to list (388)
+0026.075 (0) finding files: the_victor_retail-pizza-150x150.jpg: adding to list (389)
+0026.075 (0) finding files: vertical-footer-pet-friendly-204x300.jpg: adding to list (390)
+0026.075 (0) finding files: vertical-footer-thevictor_view-204x300.jpg: adding to list (391)
+0026.075 (0) finding files: left-bank-300x300.jpg: adding to list (392)
+0026.075 (0) finding files: pizza-150x150.jpg: adding to list (393)
+0026.075 (0) finding files: the_victor-unit-front-slider-2-150x60.jpg: adding to list (394)
+0026.075 (0) finding files: very-apt.png: adding to list (395)
+0026.075 (0) finding files: women-with-cellphone-contact-page-150x83.jpg: adding to list (396)
+0026.075 (0) finding files: 2bed_2bath_209-509.pdf: adding to list (397)
+0026.075 (0) finding files: The-New-York-Times.png: adding to list (398)
+0026.075 (0) finding files: gym-the_victor-300x300.jpg: adding to list (399)
+0026.075 (0) finding files: the_victor-neighborhood-12-1024x406.jpg: adding to list (400)
+0026.078 (0) finding files: the_victor-1a-300x119.jpg: adding to list (401)
+0026.078 (0) finding files: neighborhood-7-1024x406.jpg: adding to list (402)
+0026.078 (0) finding files: the_victor-unit_1.jpg: adding to list (403)
+0026.078 (0) finding files: edible-arrangements-300x300.jpg: adding to list (404)
+0026.078 (0) finding files: the_victor-unit_2-1024x406.jpg: adding to list (405)
+0026.078 (0) finding files: the_victor-6-1024x406.jpg: adding to list (406)
+0026.078 (0) finding files: model1-6-1024x406.jpg: adding to list (407)
+0026.078 (0) finding files: the_victor-neighborhood-2-150x60.jpg: adding to list (408)
+0026.078 (0) finding files: the_victor_unit_slider-440-300x172.jpg: adding to list (409)
+0026.078 (0) finding files: the_victor_retail-edible_arrangements.jpg: adding to list (410)
+0026.078 (0) finding files: edible-arrangements.jpg: adding to list (411)
+0026.078 (0) finding files: the_victor-1a-150x60.jpg: adding to list (412)
+0026.078 (0) finding files: middle-slider-camden-aquarium-440px.jpg: adding to list (413)
+0026.078 (0) finding files: model2-4.jpg: adding to list (414)
+0026.078 (0) finding files: the_victor_floorplans_living-top-2.jpg: adding to list (415)
+0026.078 (0) finding files: the-Victor.jpg: adding to list (416)
+0026.078 (0) finding files: the_victor-4-1024x406.jpg: adding to list (417)
+0026.078 (0) finding files: the_victor-neighborhood-9.jpg: adding to list (418)
+0026.078 (0) finding files: the_victor_retail-bbt-300x300.jpg: adding to list (419)
+0026.078 (0) finding files: gym-the_victor-150x150.jpg: adding to list (420)
+0026.078 (0) finding files: the_victor_retail-coming_soon.jpg: adding to list (421)
+0026.078 (0) finding files: skyline-thevictor-view-300x300.jpg: adding to list (422)
+0026.078 (0) finding files: bedroom_model_victor-150x150.jpg: adding to list (423)
+0026.078 (0) finding files: bedroom_model_victor.jpg: adding to list (424)
+0026.078 (0) finding files: 2bed_2bath_248-648.svg: adding to list (425)
+0026.078 (0) finding files: skyline-thevictor-view.jpg: adding to list (426)
+0026.078 (0) finding files: the_victor-neighborhood-8-150x60.jpg: adding to list (427)
+0026.078 (0) finding files: grass.jpg: adding to list (428)
+0026.078 (0) finding files: the_victor-6.jpg: adding to list (429)
+0026.078 (0) finding files: the_victort-footer-gallery-300x111.jpg: adding to list (430)
+0026.078 (0) finding files: cbs-philly-300x57.png: adding to list (431)
+0026.078 (0) finding files: bike.svg: adding to list (432)
+0026.078 (0) finding files: the_victor_neighborhood-camden-marina-150x150.jpg: adding to list (433)
+0026.078 (0) finding files: bridge-thevictor-view.jpg: adding to list (434)
+0026.078 (0) finding files: the_victor-2.jpg: adding to list (435)
+0026.078 (0) finding files: the_victor-neighborhood-11-300x119.jpg: adding to list (436)
+0026.078 (0) finding files: parking-150x150.jpg: adding to list (437)
+0026.078 (0) finding files: the_victor_retail-coming_soon-150x150.jpg: adding to list (438)
+0026.078 (0) finding files: model2-2.jpg: adding to list (439)
+0026.078 (0) finding files: locust_on_the_park.jpg: adding to list (440)
+0026.078 (0) finding files: neighborhood-1-150x60.jpg: adding to list (441)
+0026.078 (0) finding files: the-Victor-150x150.jpg: adding to list (442)
+0026.079 (0) finding files: 1bed_platform_1bath_341-641.svg: adding to list (443)
+0026.079 (0) finding files: Hyde-Hotel-upcoming-gallery-102x150.jpg: adding to list (444)
+0026.079 (0) finding files: the_victor-unit_4-300x119.jpg: adding to list (445)
+0026.079 (0) finding files: middle-slider-aquarium-150x59.jpg: adding to list (446)
+0026.079 (0) finding files: the_victor-unit-front-slider-2.jpg: adding to list (447)
+0026.079 (0) finding files: neighborhood-3-1024x406.jpg: adding to list (448)
+0026.079 (0) finding files: camden-aquarium.jpg: adding to list (449)
+0026.079 (0) finding files: second-slider-aquarium-1024x400.jpg: adding to list (450)
+0026.079 (0) finding files: neighborhood-1-1024x406.jpg: adding to list (451)
+0026.079 (0) finding files: storage.jpg: adding to list (452)
+0026.079 (0) finding files: bedroom-the_victor.jpg: adding to list (453)
+0026.079 (0) finding files: middle-slider-cooper-440px-300x172.jpg: adding to list (454)
+0026.079 (0) finding files: the_victor_view_slider-1024x406.jpg: adding to list (455)
+0026.079 (0) finding files: camden-aquarium-300x300.jpg: adding to list (456)
+0026.079 (0) finding files: pet-friendly.svg: adding to list (457)
+0026.079 (0) finding files: 2bed_2bath_two-levels.svg: adding to list (458)
+0026.079 (0) finding files: the_victor_unit_slider-150x60.jpg: adding to list (459)
+0026.079 (0) finding files: the_victor-3-300x119.jpg: adding to list (460)
+0026.079 (0) finding files: women-with-cellphone-contact-page.jpg: adding to list (461)
+0026.079 (0) finding files: lobby-thevictor.jpg: adding to list (462)
+0026.079 (0) finding files: vertical-footer-thevictor_entrance.jpg: adding to list (463)
+0026.079 (0) finding files: grass-300x300.jpg: adding to list (464)
+0026.079 (0) finding files: leed.svg: adding to list (465)
+0026.079 (0) finding files: the_victor-neighborhood-7-150x60.jpg: adding to list (466)
+0026.079 (0) finding files: courtyard.svg: adding to list (467)
+0026.079 (0) finding files: logo-fav.png: adding to list (468)
+0026.079 (0) finding files: vertical-footer-thevictor.jpg: adding to list (469)
+0026.079 (0) finding files: middle-slider-cooper-1024x400.jpg: adding to list (470)
+0026.079 (0) finding files: view-downtown-zoom-300x119.jpg: adding to list (471)
+0026.079 (0) finding files: the_victor-neighborhood-10.jpg: adding to list (472)
+0026.079 (0) finding files: the_victor-neighborhood-11.jpg: adding to list (473)
+0026.079 (0) finding files: edible-arrangements-150x150.jpg: adding to list (474)
+0026.079 (0) finding files: the_victor-1-1024x406.jpg: adding to list (475)
+0026.079 (0) finding files: the_victor-unit_2.jpg: adding to list (476)
+0026.079 (0) finding files: studio_1bath.pdf: adding to list (477)
+0026.079 (0) finding files: the_victor-unit_4-1024x406.jpg: adding to list (478)
+0026.079 (0) finding files: the_victor_view_slider-150x60.jpg: adding to list (479)
+0026.079 (0) finding files: diningroom-the_victor-150x150.jpg: adding to list (480)
+0026.079 (0) finding files: PhiladelphiaBusinessJournal-150x36.png: adding to list (481)
+0026.079 (0) finding files: the_victor_retail-bbt-150x150.jpg: adding to list (482)
+0026.079 (0) finding files: philadelphia-magazine-logo.png: adding to list (483)
+0026.079 (0) finding files: the_victor-unit-front-slider-2-300x119.jpg: adding to list (484)
+0026.079 (0) finding files: view-bridge-300x119.jpg: adding to list (485)
+0026.079 (0) finding files: camden-marina-150x150.jpg: adding to list (486)
+0026.079 (0) finding files: PhillyStyle-300x70.png: adding to list (487)
+0026.079 (0) finding files: fitness.svg: adding to list (488)
+0026.080 (0) finding files: neighborhood-6.jpg: adding to list (489)
+0026.080 (0) finding files: view-bridge.jpg: adding to list (490)
+0026.080 (0) finding files: camden-concert-pavilion-1024x400.jpg: adding to list (491)
+0026.080 (0) finding files: The-New-York-Times-300x43.png: adding to list (492)
+0026.080 (0) finding files: middle-slider-cooper-150x59.jpg: adding to list (493)
+0026.080 (0) finding files: south-star.jpg: adding to list (494)
+0026.080 (0) finding files: thevictor-rooftop-view-2-150x60.jpg: adding to list (495)
+0026.080 (0) finding files: model1-3-300x119.jpg: adding to list (496)
+0026.080 (0) finding files: thevictor-rooftop-view-2.jpg: adding to list (497)
+0026.080 (0) finding files: the_victor_retail-coming_soon-300x300.jpg: adding to list (498)
+0026.080 (0) finding files: vertical-footer-thevictor_courtyard-102x150.jpg: adding to list (499)
+0026.080 (0) finding files: vertical-footer-neighborhood-thevictor-bridge.jpg: adding to list (500)
+0026.083 (0) finding files: One-Riverside-night.jpg: adding to list (501)
+0026.083 (0) finding files: left-bank-150x150.jpg: adding to list (502)
+0026.083 (0) finding files: neighborhood-3-150x60.jpg: adding to list (503)
+0026.083 (0) finding files: the_victor-neighborhood-11-1024x406.jpg: adding to list (504)
+0026.083 (0) finding files: clubroom-the_victor-300x300.jpg: adding to list (505)
+0026.083 (0) finding files: livingroom-2-the_victor-150x150.jpg: adding to list (506)
+0026.083 (0) finding files: the_victor-neighborhood-3-1024x406.jpg: adding to list (507)
+0026.083 (0) finding files: the_victor-unit_4.jpg: adding to list (508)
+0026.083 (0) finding files: dining_model_victor.jpg: adding to list (509)
+0026.083 (0) finding files: the_victor_neighborhood-aquarium-children-150x150.jpg: adding to list (510)
+0026.083 (0) finding files: the_victor-neighborhood-1-300x119.jpg: adding to list (511)
+0026.083 (0) finding files: view-downtown-zoom-150x60.jpg: adding to list (512)
+0026.083 (0) finding files: One-Ardmore-Place-upcoming-gallery-627x922_c.jpg: adding to list (513)
+0026.083 (0) finding files: the_victor-neighborhood-1-150x60.jpg: adding to list (514)
+0026.083 (0) finding files: the_victor-neighborhood-1-1024x406.jpg: adding to list (515)
+0026.083 (0) finding files: multifamily-executive-logo-300x223.png: adding to list (516)
+0026.083 (0) finding files: the_victor_slider-1024x406.jpg: adding to list (517)
+0026.083 (0) finding files: the_victor_map_icon.png: adding to list (518)
+0026.083 (0) finding files: the_victor-4-300x119.jpg: adding to list (519)
+0026.083 (0) finding files: livingroom-2-the_victor-300x300.jpg: adding to list (520)
+0026.083 (0) finding files: vertical-footer-floorplans.jpg: adding to list (521)
+0026.084 (0) finding files: dining_model_victor-150x150.jpg: adding to list (522)
+0026.084 (0) finding files: middle-slider-aquarium-300x117.jpg: adding to list (523)
+0026.084 (0) finding files: camden-marina-300x300.jpg: adding to list (524)
+0026.084 (0) finding files: the_victor-unit_1-1024x406.jpg: adding to list (525)
+0026.084 (0) finding files: the_victor-lobby.jpg: adding to list (526)
+0026.084 (0) finding files: pure_mind-the_victor-300x300.jpg: adding to list (527)
+0026.084 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0026.118 (0) Total entities for the zip file: 17 directories, 621 files (0 skipped as non-modified), 42.9 MB
+0026.125 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0026.132 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0026.138 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0026.142 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 621 files batched, 326 (326) added so far); re-opening (prior size: 0 KB)
+0029.342 (0) A useful amount of data was added after this amount of zip processing: 3.5 s (normalised: 3.5 s, rate: 7301.4 KB/s)
+0029.348 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.50818490982, normalised_time=3.5061848073, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=44859700)
+0029.358 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip.tmp: 400 files added (on-disk size: 24183.2 KB)
+0029.365 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip.tmp: 500 files added (on-disk size: 24183.2 KB)
+0029.373 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip.tmp: 600 files added (on-disk size: 24183.2 KB)
+0032.098 (0) Created uploads zip (0) - 41487.8 KB in 6 s (6902.3 KB/s) (sha1: ada2cc05050aeee4f7b4984d66c9589c92112087, sha256: 951943207894a2a461a713a1bf33cd11ad564df6d6aea0348ee46f507855a3d4)
+0032.106 (0) Beginning backup of other directories found in the content directory (index: 0)
+0032.110 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0032.114 (0) Looking for candidates to back up in: /nas/content/live/thevictor/wp-content
+0032.117 (0) finding files: mysql.sql: skipping: excluded by options
+0032.120 (0) finding files: uploads: skipping: this is the uploads directory
+0032.123 (0) finding files: plugins: skipping: this is the plugins directory
+0032.127 (0) finding files: index.php: adding to list (1)
+0032.131 (0) finding files: mu-plugins: adding to list (2)
+0032.134 (0) finding files: themes: skipping: this is the themes directory
+0032.136 (0) finding files: updraft: skipping: this is the updraft directory
+0032.138 (0) finding files: advanced-cache.php: adding to list (3)
+0032.140 (0) finding files: upgrade: skipping: excluded by options
+0032.176 (0) Total entities for the zip file: 12 directories, 104 files (0 skipped as non-modified), 1.1 MB
+0032.183 (0) Zip: backup_2018-03-31-1705_The_Victor_412f0b39405f-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0032.798 (0) Created others zip (0) - 553.9 KB in 0.7 s (846.1 KB/s) (sha1: af7b56fe09d9649f951e4b968e8f195b1c2f62a6, sha256: 6211b366021c1787dfb8461cc367b29e380495f7c465b405ba6b2a31312e7d56)
+0032.812 (0) Saving backup status to database (elements: 8)
+0032.820 (0) Beginning creation of database dump (WordPress DB)
+0033.253 (0) Table wp_options: Total expected rows (approximate): 450
+0033.269 (0) Table wp_options: Total rows added: 446 in 0.01 seconds
+0033.273 (0) Table wp_options: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_options.table.gz - 45.9 KB)
+0033.283 (0) Table wp_users: Total expected rows (approximate): 2
+0033.288 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0033.291 (0) Table wp_users: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_users.table.gz - 0.6 KB)
+0033.299 (0) Table wp_usermeta: Total expected rows (approximate): 46
+0033.304 (0) Table wp_usermeta: Total rows added: 47 in 0.00 seconds
+0033.309 (0) Table wp_usermeta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_usermeta.table.gz - 3 KB)
+0033.319 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0033.323 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0033.326 (0) Table wp_commentmeta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0033.335 (0) Table wp_comments: Total expected rows (approximate): 0
+0033.338 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0033.341 (0) Table wp_comments: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_comments.table.gz - 0.5 KB)
+0033.349 (0) Table wp_links: Total expected rows (approximate): 0
+0033.353 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0033.355 (0) Table wp_links: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_links.table.gz - 0.4 KB)
+0033.364 (0) Table wp_postmeta: Total expected rows (approximate): 3473
+0033.442 (0) Table wp_postmeta: Total rows added: 3650 in 0.07 seconds
+0033.445 (0) Table wp_postmeta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_postmeta.table.gz - 78.7 KB)
+0033.456 (0) Table wp_posts: Total expected rows (approximate): 481
+0033.498 (0) Table wp_posts: Total rows added: 469 in 0.04 seconds
+0033.502 (0) Table wp_posts: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_posts.table.gz - 23.3 KB)
+0033.512 (0) Table wp_term_relationships: Total expected rows (approximate): 121
+0033.517 (0) Table wp_term_relationships: Total rows added: 121 in 0.00 seconds
+0033.520 (0) Table wp_term_relationships: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_term_relationships.table.gz - 0.7 KB)
+0033.529 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0033.533 (0) Table wp_term_taxonomy: Total rows added: 4 in 0.00 seconds
+0033.535 (0) Table wp_term_taxonomy: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0033.543 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0033.547 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0033.550 (0) Table wp_termmeta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_termmeta.table.gz - 0.4 KB)
+0033.556 (0) Table wp_terms: Total expected rows (approximate): 4
+0033.561 (0) Table wp_terms: Total rows added: 4 in 0.00 seconds
+0033.563 (0) Table wp_terms: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_terms.table.gz - 0.5 KB)
+0033.571 (0) Table wp_create_map: Total expected rows (approximate): 1
+0033.576 (0) Table wp_create_map: Total rows added: 1 in 0.00 seconds
+0033.578 (0) Table wp_create_map: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_create_map.table.gz - 2.3 KB)
+0033.587 (0) Table wp_group_map: Total expected rows (approximate): 9
+0033.591 (0) Table wp_group_map: Total rows added: 9 in 0.00 seconds
+0033.594 (0) Table wp_group_map: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_group_map.table.gz - 0.7 KB)
+0033.603 (0) Table wp_map_locations: Total expected rows (approximate): 50
+0033.608 (0) Table wp_map_locations: Total rows added: 50 in 0.00 seconds
+0033.611 (0) Table wp_map_locations: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_map_locations.table.gz - 2.8 KB)
+0033.620 (0) Table wp_map_routes: Total expected rows (approximate): 0
+0033.624 (0) Table wp_map_routes: Total rows added: 0 in 0.00 seconds
+0033.627 (0) Table wp_map_routes: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_map_routes.table.gz - 0.4 KB)
+0033.636 (0) Table wp_pps_countries: Total expected rows (approximate): 240
+0033.643 (0) Table wp_pps_countries: Total rows added: 240 in 0.01 seconds
+0033.646 (0) Table wp_pps_countries: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_countries.table.gz - 3.7 KB)
+0033.655 (0) Table wp_pps_modules: Total expected rows (approximate): 12
+0033.658 (0) Table wp_pps_modules: Total rows added: 13 in 0.00 seconds
+0033.661 (0) Table wp_pps_modules: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_modules.table.gz - 0.5 KB)
+0033.671 (0) Table wp_pps_modules_type: Total expected rows (approximate): 2
+0033.674 (0) Table wp_pps_modules_type: Total rows added: 2 in 0.00 seconds
+0033.676 (0) Table wp_pps_modules_type: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_modules_type.table.gz - 0.3 KB)
+0033.684 (0) Table wp_pps_popup: Total expected rows (approximate): 25
+0033.707 (0) Table wp_pps_popup: Total rows added: 47 in 0.02 seconds
+0033.710 (0) Table wp_pps_popup: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_popup.table.gz - 83.7 KB)
+0033.720 (0) Table wp_pps_popup_show_categories: Total expected rows (approximate): 0
+0033.724 (0) Table wp_pps_popup_show_categories: Total rows added: 0 in 0.00 seconds
+0033.727 (0) Table wp_pps_popup_show_categories: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_popup_show_categories.table.gz - 0.3 KB)
+0033.736 (0) Table wp_pps_popup_show_pages: Total expected rows (approximate): 1
+0033.740 (0) Table wp_pps_popup_show_pages: Total rows added: 1 in 0.00 seconds
+0033.743 (0) Table wp_pps_popup_show_pages: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_popup_show_pages.table.gz - 0.3 KB)
+0033.751 (0) Table wp_pps_statistics: Total expected rows (approximate): 106425
+0036.953 (0) Table wp_pps_statistics: Total rows added: 108211 in 3.20 seconds
+0036.959 (0) Table wp_pps_statistics: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_statistics.table.gz - 739.4 KB)
+0036.969 (0) Table wp_pps_subscribers: Total expected rows (approximate): 0
+0036.973 (0) Table wp_pps_subscribers: Total rows added: 0 in 0.00 seconds
+0036.975 (0) Table wp_pps_subscribers: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_subscribers.table.gz - 0.4 KB)
+0036.984 (0) Table wp_pps_usage_stat: Total expected rows (approximate): 9
+0036.989 (0) Table wp_pps_usage_stat: Total rows added: 9 in 0.00 seconds
+0036.992 (0) Table wp_pps_usage_stat: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_usage_stat.table.gz - 0.6 KB)
+0037.001 (0) Table wp_rg_form: Total expected rows (approximate): 2
+0037.005 (0) Table wp_rg_form: Total rows added: 2 in 0.00 seconds
+0037.008 (0) Table wp_rg_form: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_form.table.gz - 0.4 KB)
+0037.018 (0) Table wp_rg_form_meta: Total expected rows (approximate): 2
+0037.023 (0) Table wp_rg_form_meta: Total rows added: 2 in 0.00 seconds
+0037.026 (0) Table wp_rg_form_meta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_form_meta.table.gz - 1.5 KB)
+0037.047 (0) Table wp_rg_form_view: Total expected rows (approximate): 567
+0037.062 (0) Table wp_rg_form_view: Total rows added: 676 in 0.01 seconds
+0037.065 (0) Table wp_rg_form_view: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_form_view.table.gz - 10.1 KB)
+0037.075 (0) Table wp_rg_incomplete_submissions: Total expected rows (approximate): 0
+0037.078 (0) Table wp_rg_incomplete_submissions: Total rows added: 0 in 0.00 seconds
+0037.081 (0) Table wp_rg_incomplete_submissions: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_incomplete_submissions.table.gz - 0.4 KB)
+0037.089 (0) Table wp_rg_lead: Total expected rows (approximate): 159
+0037.101 (0) Table wp_rg_lead: Total rows added: 164 in 0.01 seconds
+0037.105 (0) Table wp_rg_lead: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead.table.gz - 5.6 KB)
+0037.117 (0) Table wp_rg_lead_detail: Total expected rows (approximate): 740
+0037.136 (0) Table wp_rg_lead_detail: Total rows added: 764 in 0.02 seconds
+0037.140 (0) Table wp_rg_lead_detail: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_detail.table.gz - 18.3 KB)
+0037.149 (0) Table wp_rg_lead_detail_long: Total expected rows (approximate): 0
+0037.153 (0) Table wp_rg_lead_detail_long: Total rows added: 0 in 0.00 seconds
+0037.156 (0) Table wp_rg_lead_detail_long: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_detail_long.table.gz - 0.3 KB)
+0037.165 (0) Table wp_rg_lead_meta: Total expected rows (approximate): 0
+0037.169 (0) Table wp_rg_lead_meta: Total rows added: 0 in 0.00 seconds
+0037.171 (0) Table wp_rg_lead_meta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_meta.table.gz - 0.4 KB)
+0037.180 (0) Table wp_rg_lead_notes: Total expected rows (approximate): 0
+0037.184 (0) Table wp_rg_lead_notes: Total rows added: 0 in 0.00 seconds
+0037.188 (0) Table wp_rg_lead_notes: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_notes.table.gz - 0.4 KB)
+0037.199 (0) Table wp_wpgmp_backups: Total expected rows (approximate): 0
+0037.204 (0) Table wp_wpgmp_backups: Total rows added: 0 in 0.00 seconds
+0037.210 (0) Table wp_wpgmp_backups: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_wpgmp_backups.table.gz - 0.3 KB)
+0037.221 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 0
+0037.225 (0) Table wp_yoast_seo_links: Total rows added: 0 in 0.00 seconds
+0037.228 (0) Table wp_yoast_seo_links: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_yoast_seo_links.table.gz - 0.4 KB)
+0037.236 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 5
+0037.241 (0) Table wp_yoast_seo_meta: Total rows added: 6 in 0.00 seconds
+0037.243 (0) Table wp_yoast_seo_meta: finishing file (backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_yoast_seo_meta.table.gz - 0.4 KB)
+0037.252 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_options.table.gz (1/37): adding to final database dump
+0037.261 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_users.table.gz (2/37): adding to final database dump
+0037.265 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_usermeta.table.gz (3/37): adding to final database dump
+0037.269 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_commentmeta.table.gz (4/37): adding to final database dump
+0037.273 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_comments.table.gz (5/37): adding to final database dump
+0037.276 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_links.table.gz (6/37): adding to final database dump
+0037.280 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_postmeta.table.gz (7/37): adding to final database dump
+0037.323 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_posts.table.gz (8/37): adding to final database dump
+0037.337 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_term_relationships.table.gz (9/37): adding to final database dump
+0037.341 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_term_taxonomy.table.gz (10/37): adding to final database dump
+0037.344 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_termmeta.table.gz (11/37): adding to final database dump
+0037.347 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_terms.table.gz (12/37): adding to final database dump
+0037.351 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_create_map.table.gz (13/37): adding to final database dump
+0037.355 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_group_map.table.gz (14/37): adding to final database dump
+0037.357 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_map_locations.table.gz (15/37): adding to final database dump
+0037.362 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_map_routes.table.gz (16/37): adding to final database dump
+0037.366 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_countries.table.gz (17/37): adding to final database dump
+0037.371 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_modules.table.gz (18/37): adding to final database dump
+0037.374 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_modules_type.table.gz (19/37): adding to final database dump
+0037.376 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_popup.table.gz (20/37): adding to final database dump
+0037.394 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_popup_show_categories.table.gz (21/37): adding to final database dump
+0037.398 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_popup_show_pages.table.gz (22/37): adding to final database dump
+0037.400 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_statistics.table.gz (23/37): adding to final database dump
+0037.933 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_subscribers.table.gz (24/37): adding to final database dump
+0037.937 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_pps_usage_stat.table.gz (25/37): adding to final database dump
+0037.940 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_form.table.gz (26/37): adding to final database dump
+0037.943 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_form_meta.table.gz (27/37): adding to final database dump
+0037.945 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_form_view.table.gz (28/37): adding to final database dump
+0037.951 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_incomplete_submissions.table.gz (29/37): adding to final database dump
+0037.954 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead.table.gz (30/37): adding to final database dump
+0037.959 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_detail.table.gz (31/37): adding to final database dump
+0037.968 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_detail_long.table.gz (32/37): adding to final database dump
+0037.970 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_meta.table.gz (33/37): adding to final database dump
+0037.972 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_rg_lead_notes.table.gz (34/37): adding to final database dump
+0037.975 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_wpgmp_backups.table.gz (35/37): adding to final database dump
+0037.978 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_yoast_seo_links.table.gz (36/37): adding to final database dump
+0037.981 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db-table-wp_yoast_seo_meta.table.gz (37/37): adding to final database dump
+0037.983 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz: finished writing out complete database file (1000 KB)
+0038.010 (0) Total database tables backed up: 37 (backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz, size: 1046739, sha256)
+0038.025 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0038.027 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0038.030 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0038.032 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-others.zip: others: This file has not yet been successfully uploaded: will queue
+0038.034 (0) backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz: db: This file has not yet been successfully uploaded: will queue
+0038.035 (0) Saving backup history. Total backup size: 83 MB
+0038.042 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0038.050 (0) Cloud backup selection (1/1): s3 with instance (1/1) (last)
+0038.052 (0) Beginning dispatch of backup to remote (s3) (instance identifier s-534086a2c50a42b86310e94b4aa94cc3)
+0038.177 (0) Set region: us-west-2
+0038.180 (0) S3 upload (us-west-2): backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip (chunks: 6) -> s3://thevictor/backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip
+0038.632 (0) S3 chunked upload: got multipart ID: fKwyjCdTVvxonnp75tPnyvC0xRtLf.SvmZCbuQaoO.fPfXqvaJ5Y17_lUXAC9qH2d_gHxFSxG4kEdsvHgO0khTFJI12eFEjnizJe6TXVF2GO_FBvVQxIWnIuo26PkDTA
+0040.128 (0) S3 chunked upload: 16.7 % uploaded (1, "ef53be7a25cb8d708b08ead59101402e")
+0040.602 (0) S3 chunked upload: 33.3 % uploaded (2, "623be89eafde5a0274fbf4f55daa7473")
+0041.245 (0) S3 chunked upload: 50 % uploaded (3, "11349eae099f4917065e281ee8da4018")
+0041.734 (0) S3 chunked upload: 66.7 % uploaded (4, "39ff42826e99ae2f2b38845b29a527d9")
+0042.185 (0) S3 chunked upload: 83.3 % uploaded (5, "111b9ff206db7086c521d5c3ff03db74")
+0042.546 (0) S3 chunked upload: 100 % uploaded (6, "12101477fe5f007287f87c65e16ff177")
+0042.556 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0042.828 (0) S3 upload (plugins0): re-assembly succeeded
+0042.836 (0) Recording as successfully uploaded: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip (85cc4d50f95eb3872786ad61989a9238)
+0042.851 (0) Deleting local file: backup_2018-03-31-1705_The_Victor_412f0b39405f-plugins.zip: OK
+0042.856 (0) S3 upload (us-west-2): backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip (chunks: 3) -> s3://thevictor/backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip
+0042.948 (0) S3 chunked upload: got multipart ID: NgGXLTvbl.nktVkoML1qV06oajI1A25Jsu710AlteYijIP2fGfIxd83NMIzSuUA7AfqtzNM6fH7z6Wcngq60UeQrqGr6fksYVXRLXLbBUnqdRK4OA8Kc50NBNxolfBOZ
+0043.399 (0) S3 chunked upload: 33.3 % uploaded (1, "4e31c101f3c4c29e3dbba12b6053dae8")
+0043.843 (0) S3 chunked upload: 66.7 % uploaded (2, "5e88922999c2dfca22f84500880384eb")
+0044.229 (0) S3 chunked upload: 100 % uploaded (3, "8089e390f8304ee1eef2f704398d5c35")
+0044.239 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0044.565 (0) S3 upload (themes0): re-assembly succeeded
+0044.573 (0) Recording as successfully uploaded: backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip (1bf7181099c8203445e61fe2a948f8bd)
+0044.585 (0) Deleting local file: backup_2018-03-31-1705_The_Victor_412f0b39405f-themes.zip: OK
+0044.589 (0) S3 upload (us-west-2): backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip (chunks: 9) -> s3://thevictor/backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip
+0044.682 (0) S3 chunked upload: got multipart ID: _phBOvHsQCt7Ba1_lgGzOc5jhgwWTCyvdsnaW7fnYi23WOcQhDmRYRk7FIcGCvobc_eEGCWpAEGbkycCQNi0fnmio3VoB2YlR7mwPTuWpXXyoKUowQobCYBzUKVNZTFE
+0045.149 (0) S3 chunked upload: 11.1 % uploaded (1, "1bac2c7c5c76b604b7c44367f6f89558")
+0045.615 (0) S3 chunked upload: 22.2 % uploaded (2, "08182ef4ad38ca62b28362350e97456d")
+0046.088 (0) S3 chunked upload: 33.3 % uploaded (3, "ec9afde13dd8a912317033727ec44378")
+0046.514 (0) S3 chunked upload: 44.4 % uploaded (4, "c7a93047ebb84a685a19fc31219065b9")
+0046.984 (0) S3 chunked upload: 55.6 % uploaded (5, "6d73cf5e3752718ebca4a60da3627093")
+0047.411 (0) S3 chunked upload: 66.7 % uploaded (6, "825aeefd5229c2b8b6f8032d708ba3a1")
+0047.871 (0) S3 chunked upload: 77.8 % uploaded (7, "e7925454bfefd2ed66a4b4266f6ed7b6")
+0048.378 (0) S3 chunked upload: 88.9 % uploaded (8, "cc6c4d4c170b9e680c430de967702d18")
+0049.871 (0) S3 chunked upload: 100 % uploaded (9, "7df580cac2e2a6e134910ad0826a13c4")
+0049.883 (0) S3 upload: all chunks uploaded; will now instruct S3 to re-assemble
+0050.186 (0) S3 upload (uploads0): re-assembly succeeded
+0050.196 (0) Recording as successfully uploaded: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip (74ccbb3e77e7768f909b3428504cb1d5)
+0050.214 (0) Deleting local file: backup_2018-03-31-1705_The_Victor_412f0b39405f-uploads.zip: OK
+0050.222 (0) S3 upload (us-west-2): backup_2018-03-31-1705_The_Victor_412f0b39405f-others.zip (chunks: 1) -> s3://thevictor/backup_2018-03-31-1705_The_Victor_412f0b39405f-others.zip
+0050.544 (0) S3 regular upload: success
+0050.551 (0) Recording as successfully uploaded: backup_2018-03-31-1705_The_Victor_412f0b39405f-others.zip (1579de7aa51471fc3d1e4f625cb6a020)
+0050.561 (0) Deleting local file: backup_2018-03-31-1705_The_Victor_412f0b39405f-others.zip: OK
+0050.564 (0) S3 upload (us-west-2): backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz (chunks: 1) -> s3://thevictor/backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz
+0050.811 (0) S3 regular upload: success
+0050.820 (0) Recording as successfully uploaded: backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz (3fbef632ab2177be5f6fe7f8669b8567)
+0050.832 (0) Deleting local file: backup_2018-03-31-1705_The_Victor_412f0b39405f-db.gz: OK
+0050.839 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0050.846 (0) Number of backup sets in history: 3; groups (db): 1
+0050.848 (0) Examining (for databases) backup set with group_id=0, nonce=412f0b39405f, datestamp=1522530300 (Mar 31 2018 21:05:00)
+0050.854 (0) This backup set is the backup set just made, so will not be deleted.
+0050.854 (0) Examining (for databases) backup set with group_id=0, nonce=e171b4fd4bcf, datestamp=1522443829 (Mar 30 2018 21:03:49)
+0050.854 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0050.857 (0) Examining (for databases) backup set with group_id=0, nonce=cbae8a80c6df, datestamp=1522357485 (Mar 29 2018 21:04:45)
+0050.857 (0) 1522357485: db: this set includes a database (backup_2018-03-29-1704_The_Victor_cbae8a80c6df-db.gz); db count is now 2
+0050.857 (0) 1522357485: db: over retain limit (2); will delete this database
+0050.857 (0) Delete file: backup_2018-03-29-1704_The_Victor_cbae8a80c6df-db.gz, service=s3
+0050.864 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-03-29-1704_The_Victor_cbae8a80c6df-db.gz
+0050.962 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0050.966 (0) Number of backup sets in history: 3; groups (files): 1
+0050.968 (0) Examining (for files) backup set with nonce=412f0b39405f, datestamp=1522530300 (Mar 31 2018 21:05:00)
+0050.968 (0) This backup set is the backup set just made, so will not be deleted.
+0050.971 (0) This backup set is the backup set just made, so will not be deleted.
+0050.972 (0) This backup set is the backup set just made, so will not be deleted.
+0050.972 (0) This backup set is the backup set just made, so will not be deleted.
+0050.972 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0050.975 (0) Examining (for files) backup set with nonce=e171b4fd4bcf, datestamp=1522443829 (Mar 30 2018 21:03:49)
+0050.975 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0050.975 (0) Examining (for files) backup set with nonce=cbae8a80c6df, datestamp=1522357485 (Mar 29 2018 21:04:45)
+0050.975 (0) plugins: over retain limit (2); will delete this file entity
+0050.975 (0) themes: over retain limit (2); will delete this file entity
+0050.975 (0) uploads: over retain limit (2); will delete this file entity
+0050.975 (0) others: over retain limit (2); will delete this file entity
+0050.975 (0) Delete file: backup_2018-03-29-1704_The_Victor_cbae8a80c6df-plugins.zip, service=s3
+0050.978 (0) Delete file: backup_2018-03-29-1704_The_Victor_cbae8a80c6df-themes.zip, service=s3
+0050.979 (0) Delete file: backup_2018-03-29-1704_The_Victor_cbae8a80c6df-uploads.zip, service=s3
+0050.982 (0) Delete file: backup_2018-03-29-1704_The_Victor_cbae8a80c6df-others.zip, service=s3
+0050.984 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-03-29-1704_The_Victor_cbae8a80c6df-plugins.zip
+0051.107 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-03-29-1704_The_Victor_cbae8a80c6df-themes.zip
+0051.202 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-03-29-1704_The_Victor_cbae8a80c6df-uploads.zip
+0051.355 (0) S3: Delete remote: bucket=thevictor, URI=backup_2018-03-29-1704_The_Victor_cbae8a80c6df-others.zip
+0051.454 (0) This backup set is now empty; will remove from history
+0051.457 (0) Deleting log file (log.cbae8a80c6df.txt)
+0051.482 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0051.495 (0) Resume backup (412f0b39405f, 0): finish run
+0051.500 (0) Decremented the semaphore (fd) by 1
+0051.504 (0) Semaphore (fd) unlocked
+0051.507 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0051.516 (0) No email will/can be sent - the user has not configured an email address.
+0051.519 (0) The backup apparently succeeded and is now complete
